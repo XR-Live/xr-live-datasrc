@@ -1,0 +1,140 @@
+{
+  "config": {
+    "defaultVisibleCount": 9
+   },
+  "media": {
+    "disney": {
+      "media": "disney",
+      "mediaTitle": "Disney"
+    },
+    "disney": {
+      "media": "disney",
+      "mediaTitle": "Disney"
+    },
+    "disney": {
+      "media": "disney",
+      "mediaTitle": "Disney"
+    },
+    "disney": {
+      "media": "disney",
+      "mediaTitle": "Disney"
+    },
+    "disney": {
+      "media": "disney",
+      "mediaTitle": "Disney"
+    },
+    "disney": {
+      "media": "disney",
+      "mediaTitle": "Disney"
+    },
+    "disney": {
+      "media": "disney",
+      "mediaTitle": "Disney"
+    },
+    "disney": {
+      "media": "disney",
+      "mediaTitle": "Disney"
+    },
+    "disney": {
+      "media": "disney",
+      "mediaTitle": "Disney"
+    },
+    "disney": {
+      "media": "disney",
+      "mediaTitle": "Disney"
+    }
+  },
+  "sources": [
+    {
+      "media":" disney",
+      "type": "facebook",
+      "page": "963654707027644",
+      "pageName": "Disney",
+      "liveTitlePrefix": "Disney Live",
+      "active": true
+    },
+    {
+      "media":" disney",
+      "type": "facebook",
+      "page": "963654707027644",
+      "pageName": "Disney",
+      "liveTitlePrefix": "Disney Live",
+      "active": true
+    },
+    {
+      "media":" disney",
+      "type": "facebook",
+      "page": "963654707027644",
+      "pageName": "Disney",
+      "liveTitlePrefix": "Disney Live",
+      "active": true
+    },
+    {
+      "media":" disney",
+      "type": "facebook",
+      "page": "963654707027644",
+      "pageName": "Disney",
+      "liveTitlePrefix": "Disney Live",
+      "active": true
+    },
+    {
+      "media":" disney",
+      "type": "facebook",
+      "page": "963654707027644",
+      "pageName": "Disney",
+      "liveTitlePrefix": "Disney Live",
+      "active": true
+    },
+    {
+      "media":" disney",
+      "type": "facebook",
+      "page": "963654707027644",
+      "pageName": "Disney",
+      "liveTitlePrefix": "Disney Live",
+      "active": true
+    },
+    {
+      "media":" disney",
+      "type": "facebook",
+      "page": "963654707027644",
+      "pageName": "Disney",
+      "liveTitlePrefix": "Disney Live",
+      "active": true
+    },
+    {
+      "media":" disney",
+      "type": "facebook",
+      "page": "963654707027644",
+      "pageName": "Disney",
+      "liveTitlePrefix": "Disney Live",
+      "active": true
+    },
+    {
+      "media":" disney",
+      "type": "facebook",
+      "page": "963654707027644",
+      "pageName": "Disney",
+      "liveTitlePrefix": "Disney Live",
+      "active": true
+    },
+    {
+      "media":" disney",
+      "type": "facebook",
+      "page": "963654707027644",
+      "pageName": "Disney",
+      "liveTitlePrefix": "Disney Live",
+      "active": true
+    }
+],
+"current": [
+    {
+      "type": "youtube",
+      "media": "offline",
+      "mediaTitle": "Extinction Rebellion",
+      "video": "offline_oUIDL4SB60g",
+      "videoTitle": "Extinction Rebellion",
+      "videoSrc": "https://www.youtube.com/embed/videoseries?list=PLnzA40Blbb2mKmbNfQBCFBlgzYJ2czgWU&autoplay=1"
+    }
+  ],
+  "lastUpdTs": "2020-02-11T18:20:43.212Z"
+}
