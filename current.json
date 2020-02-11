@@ -1,47 +1,27 @@
 {
   "config": {
-    "defaultVisibleCount": 9
+    "defaultVisibleCount": 4
    },
   "media": {
     "disney": {
       "media": "disney",
       "mediaTitle": "Disney"
     },
-    "disney": {
-      "media": "disney",
-      "mediaTitle": "Disney"
+    "bbc": {
+      "media": "bbc",
+      "mediaTitle": "BBC News"
     },
-    "disney": {
-      "media": "disney",
-      "mediaTitle": "Disney"
+    "sky": {
+      "media": "sky",
+      "mediaTitle": "Sky News"
     },
-    "disney": {
-      "media": "disney",
-      "mediaTitle": "Disney"
+    "itv": {
+      "media": "itv",
+      "mediaTitle": "ITV News"
     },
-    "disney": {
-      "media": "disney",
-      "mediaTitle": "Disney"
-    },
-    "disney": {
-      "media": "disney",
-      "mediaTitle": "Disney"
-    },
-    "disney": {
-      "media": "disney",
-      "mediaTitle": "Disney"
-    },
-    "disney": {
-      "media": "disney",
-      "mediaTitle": "Disney"
-    },
-    "disney": {
-      "media": "disney",
-      "mediaTitle": "Disney"
-    },
-    "disney": {
-      "media": "disney",
-      "mediaTitle": "Disney"
+    "channel4": {
+      "media": "channel4",
+      "mediaTitle": "Channel 4 News"
     }
   },
   "sources": [
@@ -54,75 +34,35 @@
       "active": true
     },
     {
-      "media":" disney",
+      "media":" bbc",
       "type": "facebook",
-      "page": "963654707027644",
-      "pageName": "Disney",
-      "liveTitlePrefix": "Disney Live",
+      "page": "228735667216",
+      "pageName": "BBC News",
+      "liveTitlePrefix": "BBC News Live",
       "active": true
     },
     {
-      "media":" disney",
+      "media":" sky",
       "type": "facebook",
-      "page": "963654707027644",
-      "pageName": "Disney",
-      "liveTitlePrefix": "Disney Live",
+      "page": "164665060214766",
+      "pageName": "Sky News",
+      "liveTitlePrefix": "Sky News Live",
       "active": true
     },
     {
-      "media":" disney",
+      "media":" itv",
       "type": "facebook",
-      "page": "963654707027644",
-      "pageName": "Disney",
-      "liveTitlePrefix": "Disney Live",
+      "page": "148007467671",
+      "pageName": "ITV News",
+      "liveTitlePrefix": "ITV News Live",
       "active": true
     },
     {
-      "media":" disney",
+      "media":" channel4",
       "type": "facebook",
-      "page": "963654707027644",
-      "pageName": "Disney",
-      "liveTitlePrefix": "Disney Live",
-      "active": true
-    },
-    {
-      "media":" disney",
-      "type": "facebook",
-      "page": "963654707027644",
-      "pageName": "Disney",
-      "liveTitlePrefix": "Disney Live",
-      "active": true
-    },
-    {
-      "media":" disney",
-      "type": "facebook",
-      "page": "963654707027644",
-      "pageName": "Disney",
-      "liveTitlePrefix": "Disney Live",
-      "active": true
-    },
-    {
-      "media":" disney",
-      "type": "facebook",
-      "page": "963654707027644",
-      "pageName": "Disney",
-      "liveTitlePrefix": "Disney Live",
-      "active": true
-    },
-    {
-      "media":" disney",
-      "type": "facebook",
-      "page": "963654707027644",
-      "pageName": "Disney",
-      "liveTitlePrefix": "Disney Live",
-      "active": true
-    },
-    {
-      "media":" disney",
-      "type": "facebook",
-      "page": "963654707027644",
-      "pageName": "Disney",
-      "liveTitlePrefix": "Disney Live",
+      "page": "6622931938",
+      "pageName": "Channel 4 News",
+      "liveTitlePrefix": "Channel 4 News Live",
       "active": true
     }
 ],
@@ -136,5 +76,5 @@
       "videoSrc": "https://www.youtube.com/embed/videoseries?list=PLnzA40Blbb2mKmbNfQBCFBlgzYJ2czgWU&autoplay=1"
     }
   ],
-  "lastUpdTs": "2020-02-11T18:20:43.212Z"
+  "lastUpdTs": "2020-02-11T11:56:22.807Z"
 }
