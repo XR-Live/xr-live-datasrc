@@ -524,21 +524,13 @@
 ],
 "current": [
     {
-      "type": "facebook",
-      "media": "XRLondon",
-      "mediaTitle": "XRLondon",
-      "video": "facebook_189780928627796_0",
-      "videoTitle": "XRLondon Live",
-      "videoSrc": "https://www.facebook.com/XRLondon/videos/646019036051170"
-    },
-    {
-      "type": "facebook",
-      "media": "XRebellionUK",
-      "mediaTitle": "XRebellionUK",
-      "video": "facebook_401847960644025_0",
-      "videoTitle": "XRebellionUK Live",
-      "videoSrc": "https://www.facebook.com/XRebellionUK/videos/340657693781229"
+      "type": "youtube",
+      "media": "offline",
+      "mediaTitle": "Extinction Rebellion",
+      "video": "offline_oUIDL4SB60g",
+      "videoTitle": "Extinction Rebellion",
+      "videoSrc": "https://www.youtube.com/embed/videoseries?list=PLnzA40Blbb2mKmbNfQBCFBlgzYJ2czgWU&autoplay=1"
     }
   ],
-  "lastUpdTs": "2020-08-28T11:46:31.391Z"
+  "lastUpdTs": "2020-08-29T10:14:01.755Z"
 }
