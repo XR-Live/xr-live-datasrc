@@ -170,10 +170,6 @@
     "xrlewisham": {
       "media": "xrlewisham",
       "mediaTitle": "xrlewisham"
-    },
-    "disney": {
-      "media": "disney",
-      "mediaTitle": "Disney"
     }
   },
   "sources": [
@@ -512,14 +508,6 @@
       "pageName": "xrlewisham",
       "liveTitlePrefix": "xrlewisham Live",
       "active": true
-    },
-    {
-      "media":" disney",
-      "type": "facebook",
-      "page": "963654707027644",
-      "pageName": "Disney",
-      "liveTitlePrefix": "Disney Live",
-      "active": true
     }
 ],
 "current": [
@@ -532,5 +520,5 @@
       "videoSrc": "https://www.youtube.com/embed/videoseries?list=PLnzA40Blbb2mKmbNfQBCFBlgzYJ2czgWU&autoplay=1"
     }
   ],
-  "lastUpdTs": "2020-08-29T12:20:36.368Z"
+  "lastUpdTs": "2020-08-29T17:55:11.138Z"
 }
