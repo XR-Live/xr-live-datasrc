@@ -142,7 +142,15 @@
       "video": "Youtube" ,
       "videoTitle": "Sky News Live",
       "videoSrc": "https://www.youtube.com/embed/9Auq9mYxFEE"
+    },
+    {
+      "type": "Facebook" ,
+      "media": "Now This",
+      "mediaTitle": "Now This",
+      "video": "Facebook" ,
+      "videoTitle": "Now This",
+      "videoSrc": "https://www.facebook.com/NowThisNews/videos/326817702006633"
     }
   ],
-  "lastUpdTs": "2020-08-31T14:58:47.469Z"
+  "lastUpdTs": "2020-08-31T15:05:51.266Z"
 }
