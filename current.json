@@ -142,7 +142,23 @@
       "video": "Youtube" ,
       "videoTitle": "Sky News",
       "videoSrc": "https://www.youtube.com/watch?v=9Auq9mYxFEE"
+    },
+    {
+      "type": "Twitch" ,
+      "media": "twitch test",
+      "mediaTitle": "twitch test",
+      "video": "Twitch" ,
+      "videoTitle": "twitch test",
+      "videoSrc": "https://www.twitch.tv/xqcow"
+    },
+    {
+      "type": "Periscope" ,
+      "media": "peri test",
+      "mediaTitle": "peri test",
+      "video": "Periscope" ,
+      "videoTitle": "peri test",
+      "videoSrc": "https://www.pscp.tv/w/1LyxBaRwOojJN"
     }
   ],
-  "lastUpdTs": "2020-08-31T01:32:46.093Z"
+  "lastUpdTs": "2020-08-31T01:37:57.982Z"
 }
