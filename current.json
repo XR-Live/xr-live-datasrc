@@ -128,13 +128,13 @@
 ],
 "current": [
     {
-      "type": "youtube",
-      "media": "offline",
-      "mediaTitle": "Extinction Rebellion",
-      "video": "offline_oUIDL4SB60g",
-      "videoTitle": "Extinction Rebellion",
-      "videoSrc": "https://www.youtube.com/embed/videoseries?list=PLnzA40Blbb2mKmbNfQBCFBlgzYJ2czgWU&autoplay=1"
+      "type": "Facebook" ,
+      "media": "Church",
+      "mediaTitle": "Church",
+      "video": "Facebook" ,
+      "videoTitle": "Church",
+      "videoSrc": "https://www.facebook.com/111747823928404/videos/406319797002031/"
     }
   ],
-  "lastUpdTs": "2020-08-31T09:12:29.294Z"
+  "lastUpdTs": "2020-08-31T10:09:59.769Z"
 }
