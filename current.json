@@ -128,13 +128,13 @@
 ],
 "current": [
     {
-      "type": "Youtube" ,
-      "media": "Testing2",
-      "mediaTitle": "Testing2",
-      "video": "Youtube" ,
-      "videoTitle": "Testing2",
-      "videoSrc": "https://www.youtoube.com"
+      "type": "Facebook" ,
+      "media": "Wide Spread Panic ",
+      "mediaTitle": "Wide Spread Panic ",
+      "video": "Facebook" ,
+      "videoTitle": "Wide Spread Panic ",
+      "videoSrc": "https://www.facebook.com/widespreadpanic/videos/1490118414523151"
     }
   ],
-  "lastUpdTs": "2020-08-31T01:27:30.655Z"
+  "lastUpdTs": "2020-08-31T01:29:39.816Z"
 }
