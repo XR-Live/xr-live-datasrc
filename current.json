@@ -128,14 +128,6 @@
 ],
 "current": [
     {
-      "type": "facebook",
-      "media": "disney",
-      "mediaTitle": "disney",
-      "video": "facebook_963654707027644_0",
-      "videoTitle": "Disney Live",
-      "videoSrc": "https://www.facebook.com/963654707027644/videos/3477376285660559"
-    },
-    {
       "type": "Facebook" ,
       "media": "NowThisAgain",
       "mediaTitle": "NowThisAgain",
@@ -152,5 +144,5 @@
       "videoSrc": "https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2F963654707027644%2Fvideos%2F3477376285660559"
     }
   ],
-  "lastUpdTs": "2020-08-31T15:48:51.798Z"
+  "lastUpdTs": "2020-08-31T16:07:41.305Z"
 }
