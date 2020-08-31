@@ -128,22 +128,6 @@
 ],
 "current": [
     {
-      "type": "facebook",
-      "media": "disney",
-      "mediaTitle": "disney",
-      "video": "facebook_963654707027644_0",
-      "videoTitle": "Disney Live",
-      "videoSrc": "https://www.facebook.com/963654707027644/videos/306803750550956"
-    },
-    {
-      "type": "Youtube" ,
-      "media": "Youtube Testing",
-      "mediaTitle": "Youtube Testing",
-      "video": "Youtube" ,
-      "videoTitle": "Youtube Testing",
-      "videoSrc": "https://www.youtube.com/embed/pG2-OGUdoyM"
-    },
-    {
       "type": "Youtube" ,
       "media": "Sky News Live",
       "mediaTitle": "Sky News Live",
@@ -166,7 +150,15 @@
       "video": "Facebook" ,
       "videoTitle": "Disney",
       "videoSrc": "https://www.facebook.com/963654707027644/videos/306803750550956"
+    },
+    {
+      "type": "Facebook" ,
+      "media": "NowThis",
+      "mediaTitle": "NowThis",
+      "video": "Facebook" ,
+      "videoTitle": "NowThis",
+      "videoSrc": "https://www.facebook.com/341163402640457/videos/2685075738371949"
     }
   ],
-  "lastUpdTs": "2020-08-31T15:20:16.392Z"
+  "lastUpdTs": "2020-08-31T15:27:43.249Z"
 }
