@@ -128,21 +128,13 @@
 ],
 "current": [
     {
-      "type": "Facebook" ,
-      "media": "James Praage",
-      "mediaTitle": "James Praage",
-      "video": "Facebook" ,
-      "videoTitle": "James Praage",
-      "videoSrc": "https://www.facebook.com/plugins/video.php?href=https://www.facebook.com/JamesVanPraaghOfficial/videos/784987702309183"
-    },
-    {
-      "type": "Youtube" ,
-      "media": "Football",
-      "mediaTitle": "Football",
-      "video": "Youtube" ,
-      "videoTitle": "Football",
-      "videoSrc": "https://www.youtube.com/embed/3irR2nXOr3A"
+      "type": "facebook",
+      "media": "disney",
+      "mediaTitle": "disney",
+      "video": "facebook_963654707027644_0",
+      "videoTitle": "Disney Live",
+      "videoSrc": "https://www.facebook.com/963654707027644/videos/2779594085645359"
     }
   ],
-  "lastUpdTs": "2020-08-31T19:28:09.231Z"
+  "lastUpdTs": "2020-08-31T19:39:05.453Z"
 }
