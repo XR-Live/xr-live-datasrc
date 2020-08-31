@@ -128,21 +128,29 @@
 ],
 "current": [
     {
-      "type": "facebook",
-      "media": "disney",
-      "mediaTitle": "disney",
-      "video": "facebook_963654707027644_0",
-      "videoTitle": "Disney Live",
-      "videoSrc": "https://www.facebook.com/963654707027644/videos/2779594085645359"
-    },
-    {
       "type": "Facebook" ,
       "media": "James Praage",
       "mediaTitle": "James Praage",
       "video": "Facebook" ,
       "videoTitle": "James Praage",
       "videoSrc": "https://www.facebook.com/plugins/video.php?href=https://www.facebook.com/JamesVanPraaghOfficial/videos/784987702309183"
+    },
+    {
+      "type": "Facebook" ,
+      "media": "Dean Ferris ",
+      "mediaTitle": "Dean Ferris ",
+      "video": "Facebook" ,
+      "videoTitle": "Dean Ferris ",
+      "videoSrc": "https://www.facebook.com/plugins/video.php?href=https://www.facebook.com/115049063527769/videos/730522781061583/"
+    },
+    {
+      "type": "Facebook" ,
+      "media": "Picnic Gaming",
+      "mediaTitle": "Picnic Gaming",
+      "video": "Facebook" ,
+      "videoTitle": "Picnic Gaming",
+      "videoSrc": "https://www.facebook.com/plugins/video.php?href=https://www.facebook.com/2107824372800607/videos/1071937859990317"
     }
   ],
-  "lastUpdTs": "2020-08-31T19:50:37.973Z"
+  "lastUpdTs": "2020-08-31T19:55:03.059Z"
 }
