@@ -145,14 +145,6 @@
     },
     {
       "type": "Facebook" ,
-      "media": "Disney",
-      "mediaTitle": "Disney",
-      "video": "Facebook" ,
-      "videoTitle": "Disney",
-      "videoSrc": "https://www.facebook.com/963654707027644/videos/306803750550956"
-    },
-    {
-      "type": "Facebook" ,
       "media": "NowThis",
       "mediaTitle": "NowThis",
       "video": "Facebook" ,
@@ -160,5 +152,5 @@
       "videoSrc": "https://www.facebook.com/341163402640457/videos/2685075738371949"
     }
   ],
-  "lastUpdTs": "2020-08-31T15:27:43.249Z"
+  "lastUpdTs": "2020-08-31T15:30:48.917Z"
 }
