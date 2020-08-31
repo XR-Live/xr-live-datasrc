@@ -129,20 +129,20 @@
 "current": [
     {
       "type": "Facebook" ,
-      "media": "NowThisAgain",
-      "mediaTitle": "NowThisAgain",
+      "media": "James Praage",
+      "mediaTitle": "James Praage",
       "video": "Facebook" ,
-      "videoTitle": "NowThisAgain",
-      "videoSrc": "https://www.facebook.com/plugins/video.php?href=https://www.facebook.com/NowThisNews/videos/2685075738371949"
+      "videoTitle": "James Praage",
+      "videoSrc": "https://www.facebook.com/plugins/video.php?href=https://www.facebook.com/JamesVanPraaghOfficial/videos/784987702309183"
     },
     {
-      "type": "Facebook" ,
-      "media": "Embedded Disney",
-      "mediaTitle": "Embedded Disney",
-      "video": "Facebook" ,
-      "videoTitle": "Embedded Disney",
-      "videoSrc": "https://www.facebook.com/plugins/video.php?href=https://www.facebook.com/963654707027644/videos/3477376285660559"
+      "type": "Youtube" ,
+      "media": "Football",
+      "mediaTitle": "Football",
+      "video": "Youtube" ,
+      "videoTitle": "Football",
+      "videoSrc": "https://www.youtube.com/embed/3irR2nXOr3A"
     }
   ],
-  "lastUpdTs": "2020-08-31T16:31:47.820Z"
+  "lastUpdTs": "2020-08-31T19:28:09.231Z"
 }
