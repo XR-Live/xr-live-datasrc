@@ -150,7 +150,15 @@
       "video": "Facebook" ,
       "videoTitle": "NowThis",
       "videoSrc": "https://www.facebook.com/341163402640457/videos/2685075738371949"
+    },
+    {
+      "type": "Facebook" ,
+      "media": "NowThisAgain",
+      "mediaTitle": "NowThisAgain",
+      "video": "Facebook" ,
+      "videoTitle": "NowThisAgain",
+      "videoSrc": "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FNowThisNews%2Fvideos%2F2685075738371949"
     }
   ],
-  "lastUpdTs": "2020-08-31T15:30:48.917Z"
+  "lastUpdTs": "2020-08-31T15:38:37.189Z"
 }
