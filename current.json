@@ -38,6 +38,10 @@
     "ExtinctionRebellion": {
       "media": "ExtinctionRebellion",
       "mediaTitle": "ExtinctionRebellion"
+    },
+    "disney": {
+      "media": "disney",
+      "mediaTitle": "disney"
     }
   },
   "sources": [
@@ -112,6 +116,14 @@
       "pageName": "ExtinctionRebellion",
       "liveTitlePrefix": "ExtinctionRebellion Live",
       "active": true
+    },
+    {
+      "media":" disney",
+      "type": "facebook",
+      "page": "963654707027644",
+      "pageName": "disney",
+      "liveTitlePrefix": "Disney Live",
+      "active": true
     }
 ],
     {
@@ -124,5 +136,5 @@
     }"current": [
 
   ],
-  "lastUpdTs": "2020-08-31T01:08:02.114Z"
+  "lastUpdTs": "2020-08-31T01:19:42.492Z"
 }
