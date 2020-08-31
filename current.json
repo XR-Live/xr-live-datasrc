@@ -128,30 +128,6 @@
 ],
 "current": [
     {
-      "type": "Youtube" ,
-      "media": "Sky News Live",
-      "mediaTitle": "Sky News Live",
-      "video": "Youtube" ,
-      "videoTitle": "Sky News Live",
-      "videoSrc": "https://www.youtube.com/embed/9Auq9mYxFEE"
-    },
-    {
-      "type": "Facebook" ,
-      "media": "Now This",
-      "mediaTitle": "Now This",
-      "video": "Facebook" ,
-      "videoTitle": "Now This",
-      "videoSrc": "https://www.facebook.com/341163402640457/videos/326817702006633"
-    },
-    {
-      "type": "Facebook" ,
-      "media": "NowThis",
-      "mediaTitle": "NowThis",
-      "video": "Facebook" ,
-      "videoTitle": "NowThis",
-      "videoSrc": "https://www.facebook.com/341163402640457/videos/2685075738371949"
-    },
-    {
       "type": "Facebook" ,
       "media": "NowThisAgain",
       "mediaTitle": "NowThisAgain",
@@ -160,5 +136,5 @@
       "videoSrc": "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FNowThisNews%2Fvideos%2F2685075738371949"
     }
   ],
-  "lastUpdTs": "2020-08-31T15:38:37.189Z"
+  "lastUpdTs": "2020-08-31T15:39:47.942Z"
 }
