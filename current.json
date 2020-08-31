@@ -115,14 +115,14 @@
     }
 ],
     {
-      "type": ""Facebook" ",
-      "media": ""Testing"",
-      "mediaTitle": ""Testing"",
-      "video": ""Facebook" ",
-      "videoTitle": ""Testing"",
-      "videoSrc": ""https://www.facebook.com""
+      "type": "Facebook" ,
+      "media": "Testing",
+      "mediaTitle": "Testing",
+      "video": "Facebook" ,
+      "videoTitle": "Testing",
+      "videoSrc": "https://www.facebook.com"
     }"current": [
 
   ],
-  "lastUpdTs": "2020-08-31T00:53:42.998Z"
+  "lastUpdTs": "2020-08-31T00:59:09.012Z"
 }
