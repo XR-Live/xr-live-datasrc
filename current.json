@@ -133,7 +133,7 @@
       "mediaTitle": "NowThisAgain",
       "video": "Facebook" ,
       "videoTitle": "NowThisAgain",
-      "videoSrc": "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FNowThisNews%2Fvideos%2F2685075738371949"
+      "videoSrc": "https://www.facebook.com/plugins/video.php?href=https://www.facebook.com/NowThisNews/videos/2685075738371949"
     },
     {
       "type": "Facebook" ,
@@ -141,8 +141,8 @@
       "mediaTitle": "Embedded Disney",
       "video": "Facebook" ,
       "videoTitle": "Embedded Disney",
-      "videoSrc": "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F963654707027644%2Fvideos%2F3477376285660559"
+      "videoSrc": "https://www.facebook.com/plugins/video.php?href=https://www.facebook.com/963654707027644/videos/3477376285660559"
     }
   ],
-  "lastUpdTs": "2020-08-31T16:18:26.548Z"
+  "lastUpdTs": "2020-08-31T16:31:47.820Z"
 }
