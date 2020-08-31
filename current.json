@@ -126,6 +126,7 @@
       "active": true
     }
 ],
+"current": [
     {
       "type": "Youtube" ,
       "media": "Testing2",
@@ -133,8 +134,5 @@
       "video": "Youtube" ,
       "videoTitle": "Testing2",
       "videoSrc": "https://www.youtoube.com"
-    }"current": [
-
-  ],
-  "lastUpdTs": "2020-08-31T01:19:42.492Z"
+    }  "lastUpdTs": "2020-08-31T01:24:06.392Z"
 }
