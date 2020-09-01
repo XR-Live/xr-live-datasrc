@@ -113,11 +113,11 @@
     },
     {
       "type": "facebook",
-      "media": "XR Bristol",
-      "mediaTitle": "XR Bristol",
-      "video": "facebook_409871752690636_0",
-      "videoTitle": "XR Bristol Live",
-      "videoSrc": "https://www.facebook.com/XRBristol/videos/1253391168334974"
+      "media": "HS2 Rebellion",
+      "mediaTitle": "HS2 Rebellion",
+      "video": "facebook_111893330507008_0",
+      "videoTitle": "HS2 Rebellion Live",
+      "videoSrc": "https://www.facebook.com/HS2rebellion/videos/759248814650707"
     },
     {
       "type": "facebook",
@@ -136,5 +136,5 @@
       "videoSrc": "https://www.facebook.com/XRCymru/videos/319535979494130"
     }
   ],
-  "lastUpdTs": "2020-09-01T12:41:23.436Z"
+  "lastUpdTs": "2020-09-01T12:45:10.462Z"
 }
