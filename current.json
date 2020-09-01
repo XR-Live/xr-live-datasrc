@@ -117,14 +117,6 @@
 "current": [
     {
       "type": "facebook",
-      "media": "Animal Rebellion",
-      "mediaTitle": "Animal Rebellion",
-      "video": "facebook_481922179226690_0",
-      "videoTitle": "Animal Rebellion Live",
-      "videoSrc": "https://www.facebook.com/AnimalRebellion/videos/360173628734503"
-    },
-    {
-      "type": "facebook",
       "media": "XR UK",
       "mediaTitle": "XR UK",
       "video": "facebook_401847960644025_0",
@@ -132,5 +124,5 @@
       "videoSrc": "https://www.facebook.com/XRebellionUK/videos/2572497589729351"
     }
   ],
-  "lastUpdTs": "2020-09-01T13:55:11.218Z"
+  "lastUpdTs": "2020-09-01T14:05:13.719Z"
 }
