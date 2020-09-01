@@ -117,6 +117,14 @@
 "current": [
     {
       "type": "facebook",
+      "media": "nepocide",
+      "mediaTitle": "nepocide",
+      "video": "facebook_207750146812696_0",
+      "videoTitle": "nepocide Live",
+      "videoSrc": "https://www.facebook.com/nepocide/videos/316158362802727"
+    },
+    {
+      "type": "facebook",
       "media": "Animal Rebellion",
       "mediaTitle": "Animal Rebellion",
       "video": "facebook_481922179226690_0",
@@ -132,5 +140,5 @@
       "videoSrc": "https://www.facebook.com/XRebellionUK/videos/2572497589729351"
     }
   ],
-  "lastUpdTs": "2020-09-01T13:35:11.015Z"
+  "lastUpdTs": "2020-09-01T13:45:10.430Z"
 }
