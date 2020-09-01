@@ -93,6 +93,14 @@
 "current": [
     {
       "type": "facebook",
+      "media": "XRLondon",
+      "mediaTitle": "XRLondon",
+      "video": "facebook_189780928627796_0",
+      "videoTitle": "XRLondon Live",
+      "videoSrc": "https://www.facebook.com/XRLondon/videos/1067778420346525"
+    },
+    {
+      "type": "facebook",
       "media": "XR Bristol",
       "mediaTitle": "XR Bristol",
       "video": "facebook_409871752690636_0",
@@ -109,20 +117,28 @@
     },
     {
       "type": "Facebook" ,
-      "media": "XR Exeter",
-      "mediaTitle": "XR Exeter",
+      "media": "yes",
+      "mediaTitle": "yes",
       "video": "Facebook" ,
-      "videoTitle": "XR Exeter",
-      "videoSrc": "https://www.facebook.com/plugins/video.php?href=https://www.facebook.com/XRExeter/videos/965761807183693"
+      "videoTitle": "yes",
+      "videoSrc": "https://www.facebook.com/plugins/video.php?href=https://www.facebook.com/extinctionrebellionbirmingham/videos/1016536292155467"
     },
     {
-      "type": "Facebook" ,
-      "media": "XR Birmingham",
-      "mediaTitle": "XR Birmingham",
-      "video": "Facebook" ,
-      "videoTitle": "XR Birmingham",
-      "videoSrc": "https://www.facebook.com/plugins/video.php?href=https://www.facebook.com/extinctionrebellionbirmingham/videos/1016536292155467"
+      "type": "Youtube" ,
+      "media": "yes",
+      "mediaTitle": "yes",
+      "video": "Youtube" ,
+      "videoTitle": "yes",
+      "videoSrc": "https://www.youtube.com/embed/-naBB7uq6zM"
+    },
+    {
+      "type": "Youtube" ,
+      "media": "yes",
+      "mediaTitle": "yes",
+      "video": "Youtube" ,
+      "videoTitle": "yes",
+      "videoSrc": "https://www.youtube.com/embed/_OLFLuT82HY"
     }
   ],
-  "lastUpdTs": "2020-09-01T12:15:11.099Z"
+  "lastUpdTs": "2020-09-01T12:20:10.573Z"
 }
