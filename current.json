@@ -88,21 +88,21 @@
       "videoSrc": "https://www.facebook.com/XRBristol/videos/1253391168334974"
     },
     {
-      "type": "facebook",
-      "media": "HS2 Rebellion",
-      "mediaTitle": "HS2 Rebellion",
-      "video": "facebook_111893330507008_0",
-      "videoTitle": "HS2 Rebellion Live",
-      "videoSrc": "https://www.facebook.com/HS2rebellion/videos/1227151587665128"
-    },
-    {
       "type": "Facebook" ,
       "media": "XR Exeter",
       "mediaTitle": "XR Exeter",
       "video": "Facebook" ,
       "videoTitle": "XR Exeter",
       "videoSrc": "https://www.facebook.com/plugins/video.php?href=https://www.facebook.com/XRExeter/videos/965761807183693"
+    },
+    {
+      "type": "Facebook" ,
+      "media": "RT UK",
+      "mediaTitle": "RT UK",
+      "video": "Facebook" ,
+      "videoTitle": "RT UK",
+      "videoSrc": "https://www.facebook.com/plugins/video.php?href=https://www.facebook.com/RTUKnews/videos/355548159158048"
     }
   ],
-  "lastUpdTs": "2020-09-01T12:03:03.031Z"
+  "lastUpdTs": "2020-09-01T12:07:06.289Z"
 }
