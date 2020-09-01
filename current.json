@@ -104,13 +104,13 @@
 ],
 "current": [
     {
-      "type": "youtube",
-      "media": "offline",
-      "mediaTitle": "Extinction Rebellion",
-      "video": "offline_oUIDL4SB60g",
-      "videoTitle": "Extinction Rebellion",
-      "videoSrc": "https://www.youtube.com/embed/videoseries?list=PLnzA40Blbb2mKmbNfQBCFBlgzYJ2czgWU&autoplay=1"
+      "type": "Facebook" ,
+      "media": "yes",
+      "mediaTitle": "yes",
+      "video": "Facebook" ,
+      "videoTitle": "yes",
+      "videoSrc": "https://www.facebook.com/plugins/video.php?href=https://www.facebook.com/401847960644025/videos/2572497589729351"
     }
   ],
-  "lastUpdTs": "2020-09-01T13:05:10.594Z"
+  "lastUpdTs": "2020-09-01T13:25:11.271Z"
 }
