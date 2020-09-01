@@ -26,6 +26,10 @@
     "ExtinctionRebellion": {
       "media": "ExtinctionRebellion",
       "mediaTitle": "ExtinctionRebellion"
+    },
+    "NL Rebellion": {
+      "media": "NL Rebellion",
+      "mediaTitle": "NL Rebellion"
     }
   },
   "sources": [
@@ -76,9 +80,25 @@
       "pageName": "ExtinctionRebellion",
       "liveTitlePrefix": "ExtinctionRebellion Live",
       "active": true
+    },
+    {
+      "media":" NL Rebellion",
+      "type": "facebook",
+      "page": "200346284174326",
+      "pageName": "NL Rebellion",
+      "liveTitlePrefix": "NL Rebellion Live",
+      "active": true
     }
 ],
 "current": [
+    {
+      "type": "facebook",
+      "media": "NL Rebellion",
+      "mediaTitle": "NL Rebellion",
+      "video": "facebook_200346284174326_0",
+      "videoTitle": "NL Rebellion Live",
+      "videoSrc": "https://www.facebook.com/ExtinctionRebellionNL/videos/911558585914333"
+    },
     {
       "type": "Facebook" ,
       "media": "XR Netherlands",
@@ -88,5 +108,5 @@
       "videoSrc": "https://www.facebook.com/plugins/video.php?href=https://www.facebook.com/ExtinctionRebellionNL/videos/911558585914333"
     }
   ],
-  "lastUpdTs": "2020-09-01T08:01:42.279Z"
+  "lastUpdTs": "2020-09-01T08:05:10.745Z"
 }
