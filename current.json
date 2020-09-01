@@ -7,14 +7,6 @@
       "media": "XRLondon",
       "mediaTitle": "XRLondon"
     },
-    "XRCardiff": {
-      "media": "XRCardiff",
-      "mediaTitle": "XRCardiff"
-    },
-    "XRBristol": {
-      "media": "XRBristol",
-      "mediaTitle": "XRBristol"
-    },
     "nepocide": {
       "media": "nepocide",
       "mediaTitle": "nepocide"
@@ -23,13 +15,13 @@
       "media": "XRebellionUK",
       "mediaTitle": "XRebellionUK"
     },
-    "ExtinctionRebellion": {
-      "media": "ExtinctionRebellion",
-      "mediaTitle": "ExtinctionRebellion"
-    },
     "NL Rebellion": {
       "media": "NL Rebellion",
       "mediaTitle": "NL Rebellion"
+    },
+    "XR St Albans": {
+      "media": "XR St Albans",
+      "mediaTitle": "XR St Albans"
     }
   },
   "sources": [
@@ -39,22 +31,6 @@
       "page": "189780928627796",
       "pageName": "XRLondon",
       "liveTitlePrefix": "XRLondon Live",
-      "active": true
-    },
-    {
-      "media":" XRCardiff",
-      "type": "facebook",
-      "page": "261640811370664",
-      "pageName": "XRCardiff",
-      "liveTitlePrefix": "XRCardiff Live",
-      "active": true
-    },
-    {
-      "media":" XRBristol",
-      "type": "facebook",
-      "page": "409871752690636",
-      "pageName": "XRBristol",
-      "liveTitlePrefix": "XRBristol Live",
       "active": true
     },
     {
@@ -74,19 +50,19 @@
       "active": true
     },
     {
-      "media":" ExtinctionRebellion",
-      "type": "facebook",
-      "page": "239675493315233",
-      "pageName": "ExtinctionRebellion",
-      "liveTitlePrefix": "ExtinctionRebellion Live",
-      "active": true
-    },
-    {
       "media":" NL Rebellion",
       "type": "facebook",
       "page": "200346284174326",
       "pageName": "NL Rebellion",
       "liveTitlePrefix": "NL Rebellion Live",
+      "active": true
+    },
+    {
+      "media":" XR St Albans",
+      "type": "facebook",
+      "page": "2320669904634351",
+      "pageName": "XR St Albans",
+      "liveTitlePrefix": "XR St Albans Live",
       "active": true
     }
 ],
@@ -98,15 +74,7 @@
       "video": "facebook_401847960644025_0",
       "videoTitle": "XRebellionUK Live",
       "videoSrc": "https://www.facebook.com/XRebellionUK/videos/353271109183453"
-    },
-    {
-      "type": "Facebook" ,
-      "media": "XR St Albans",
-      "mediaTitle": "XR St Albans",
-      "video": "Facebook" ,
-      "videoTitle": "XR St Albans",
-      "videoSrc": "https://www.facebook.com/plugins/video.php?href=https://www.facebook.com/2320669904634351/videos/5299444243462371"
     }
   ],
-  "lastUpdTs": "2020-09-01T10:32:46.321Z"
+  "lastUpdTs": "2020-09-01T10:40:08.657Z"
 }
