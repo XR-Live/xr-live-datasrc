@@ -121,14 +121,6 @@
     },
     {
       "type": "facebook",
-      "media": "Animal Rebellion",
-      "mediaTitle": "Animal Rebellion",
-      "video": "facebook_481922179226690_0",
-      "videoTitle": "Animal Rebellion Live",
-      "videoSrc": "https://www.facebook.com/AnimalRebellion/videos/1351765261680505"
-    },
-    {
-      "type": "facebook",
       "media": "Cymru XR",
       "mediaTitle": "Cymru XR",
       "video": "facebook_422051668596683_0",
@@ -136,5 +128,5 @@
       "videoSrc": "https://www.facebook.com/XRCymru/videos/319535979494130"
     }
   ],
-  "lastUpdTs": "2020-09-01T12:45:10.462Z"
+  "lastUpdTs": "2020-09-01T12:55:09.626Z"
 }
