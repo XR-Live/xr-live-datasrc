@@ -116,6 +116,14 @@
 ],
 "current": [
     {
+      "type": "facebook",
+      "media": "XR UK",
+      "mediaTitle": "XR UK",
+      "video": "facebook_401847960644025_0",
+      "videoTitle": "XR UK Live",
+      "videoSrc": "https://www.facebook.com/XRebellionUK/videos/2572497589729351"
+    },
+    {
       "type": "Facebook" ,
       "media": "XR Sheffield",
       "mediaTitle": "XR Sheffield",
@@ -124,5 +132,5 @@
       "videoSrc": "https://www.facebook.com/plugins/video.php?href=https://www.facebook.com/554478098325422/videos/317964312809106"
     }
   ],
-  "lastUpdTs": "2020-09-01T14:50:10.331Z"
+  "lastUpdTs": "2020-09-01T14:55:12.300Z"
 }
