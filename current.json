@@ -22,6 +22,10 @@
     "XR St Albans": {
       "media": "XR St Albans",
       "mediaTitle": "XR St Albans"
+    },
+    "XR Bristol": {
+      "media": "XR Bristol",
+      "mediaTitle": "XR Bristol"
     }
   },
   "sources": [
@@ -64,6 +68,14 @@
       "pageName": "XR St Albans",
       "liveTitlePrefix": "XR St Albans Live",
       "active": true
+    },
+    {
+      "media":" XR Bristol",
+      "type": "facebook",
+      "page": "409871752690636",
+      "pageName": "XR Bristol",
+      "liveTitlePrefix": "XR Bristol Live",
+      "active": true
     }
 ],
 "current": [
@@ -74,7 +86,31 @@
       "video": "facebook_401847960644025_0",
       "videoTitle": "XRebellionUK Live",
       "videoSrc": "https://www.facebook.com/XRebellionUK/videos/258274318494647"
+    },
+    {
+      "type": "facebook",
+      "media": "XR Bristol",
+      "mediaTitle": "XR Bristol",
+      "video": "facebook_409871752690636_0",
+      "videoTitle": "XR Bristol Live",
+      "videoSrc": "https://www.facebook.com/XRBristol/videos/1253391168334974"
+    },
+    {
+      "type": "Facebook" ,
+      "media": "Cymru XR",
+      "mediaTitle": "Cymru XR",
+      "video": "Facebook" ,
+      "videoTitle": "Cymru XR",
+      "videoSrc": "https://www.facebook.com/plugins/video.php?href=https://www.facebook.com/XRCymru/videos/336490730877970"
+    },
+    {
+      "type": "Facebook" ,
+      "media": "XR Exeter",
+      "mediaTitle": "XR Exeter",
+      "video": "Facebook" ,
+      "videoTitle": "XR Exeter",
+      "videoSrc": "https://www.facebook.com/plugins/video.php?href=https://www.facebook.com/XRExeter/videos/965761807183693"
     }
   ],
-  "lastUpdTs": "2020-09-01T11:40:07.046Z"
+  "lastUpdTs": "2020-09-01T11:47:41.767Z"
 }
