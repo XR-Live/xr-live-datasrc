@@ -81,14 +81,6 @@
 "current": [
     {
       "type": "facebook",
-      "media": "XRebellionUK",
-      "mediaTitle": "XRebellionUK",
-      "video": "facebook_401847960644025_0",
-      "videoTitle": "XRebellionUK Live",
-      "videoSrc": "https://www.facebook.com/XRebellionUK/videos/258274318494647"
-    },
-    {
-      "type": "facebook",
       "media": "XR Bristol",
       "mediaTitle": "XR Bristol",
       "video": "facebook_409871752690636_0",
@@ -120,5 +112,5 @@
       "videoSrc": "https://www.facebook.com/plugins/video.php?href=https://www.facebook.com/XRNottm/videos/339029454175127"
     }
   ],
-  "lastUpdTs": "2020-09-01T11:50:08.326Z"
+  "lastUpdTs": "2020-09-01T11:55:08.058Z"
 }
