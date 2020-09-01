@@ -105,28 +105,12 @@
 "current": [
     {
       "type": "facebook",
-      "media": "XRLondon",
-      "mediaTitle": "XRLondon",
-      "video": "facebook_189780928627796_0",
-      "videoTitle": "XRLondon Live",
-      "videoSrc": "https://www.facebook.com/XRLondon/videos/1067778420346525"
-    },
-    {
-      "type": "facebook",
       "media": "HS2 Rebellion",
       "mediaTitle": "HS2 Rebellion",
       "video": "facebook_111893330507008_0",
       "videoTitle": "HS2 Rebellion Live",
       "videoSrc": "https://www.facebook.com/HS2rebellion/videos/759248814650707"
-    },
-    {
-      "type": "facebook",
-      "media": "Cymru XR",
-      "mediaTitle": "Cymru XR",
-      "video": "facebook_422051668596683_0",
-      "videoTitle": "Cymru XR Live",
-      "videoSrc": "https://www.facebook.com/XRCymru/videos/319535979494130"
     }
   ],
-  "lastUpdTs": "2020-09-01T12:55:09.626Z"
+  "lastUpdTs": "2020-09-01T13:00:11.878Z"
 }
