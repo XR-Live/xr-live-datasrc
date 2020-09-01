@@ -1,11 +1,16 @@
-# Data Sources for NCE Lives
+XRLive.earth
 
-Main Site: https://ncehk2019.github.io/nce-live/
+Main Site: https://xr-live.github.io/xr-live/
 
-Mirror Site: https://nce-live.web.app/
+Data Source Repo: https://github.com/xr-live/xr-live-datasrc
 
-Site Repo: https://github.com/ncehk2019/nce-live
+Facebook.com - https://www.facebook.com/XRLive.earth/
+Twitch - https://www.twitch.tv/xrlive2020
+Twitter - https://twitter.com/xr_live
+Insta - https://www.instagram.com/xrlive.earth/
+Youtube - XRLive2020
+Periscope - https://www.pscp.tv/xr_live
 
-Our telegram channel: https://t.me/ncelive
+Submit a link - https://www.bit.ly/xr-live
 
 Feel free to raise issue if you have any suggestion or question. 
