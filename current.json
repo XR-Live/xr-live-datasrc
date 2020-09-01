@@ -15,21 +15,9 @@
       "media": "XRBristol",
       "mediaTitle": "XRBristol"
     },
-    "XRScotland": {
-      "media": "XRScotland",
-      "mediaTitle": "XRScotland"
-    },
     "nepocide": {
       "media": "nepocide",
       "mediaTitle": "nepocide"
-    },
-    "AnimalRebellion": {
-      "media": "AnimalRebellion",
-      "mediaTitle": "AnimalRebellion"
-    },
-    "ExtinctionRebellionUS": {
-      "media": "ExtinctionRebellionUS",
-      "mediaTitle": "ExtinctionRebellionUS"
     },
     "XRebellionUK": {
       "media": "XRebellionUK",
@@ -38,10 +26,6 @@
     "ExtinctionRebellion": {
       "media": "ExtinctionRebellion",
       "mediaTitle": "ExtinctionRebellion"
-    },
-    "disney": {
-      "media": "disney",
-      "mediaTitle": "disney"
     }
   },
   "sources": [
@@ -70,35 +54,11 @@
       "active": true
     },
     {
-      "media":" XRScotland",
-      "type": "facebook",
-      "page": "669878010051366",
-      "pageName": "XRScotland",
-      "liveTitlePrefix": "XRScotland Live",
-      "active": true
-    },
-    {
       "media":" nepocide",
       "type": "facebook",
       "page": "207750146812696",
       "pageName": "nepocide",
       "liveTitlePrefix": "nepocide Live",
-      "active": true
-    },
-    {
-      "media":" AnimalRebellion",
-      "type": "facebook",
-      "page": "481922179226690",
-      "pageName": "AnimalRebellion",
-      "liveTitlePrefix": "AnimalRebellion Live",
-      "active": true
-    },
-    {
-      "media":" ExtinctionRebellionUS",
-      "type": "facebook",
-      "page": "944345422423924",
-      "pageName": "ExtinctionRebellionUS",
-      "liveTitlePrefix": "ExtinctionRebellionUS Live",
       "active": true
     },
     {
@@ -115,14 +75,6 @@
       "page": "239675493315233",
       "pageName": "ExtinctionRebellion",
       "liveTitlePrefix": "ExtinctionRebellion Live",
-      "active": true
-    },
-    {
-      "media":" disney",
-      "type": "facebook",
-      "page": "963654707027644",
-      "pageName": "disney",
-      "liveTitlePrefix": "Disney Live",
       "active": true
     }
 ],
@@ -168,5 +120,5 @@
       "videoSrc": "https://www.facebook.com/plugins/video.php?href=https://www.facebook.com/401847960644025/videos/778153876321585"
     }
   ],
-  "lastUpdTs": "2020-09-01T00:53:58.596Z"
+  "lastUpdTs": "2020-09-01T00:58:38.607Z"
 }
