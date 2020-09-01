@@ -98,7 +98,15 @@
       "video": "facebook_401847960644025_0",
       "videoTitle": "XRebellionUK Live",
       "videoSrc": "https://www.facebook.com/XRebellionUK/videos/353271109183453"
+    },
+    {
+      "type": "Facebook" ,
+      "media": "XR St Albans",
+      "mediaTitle": "XR St Albans",
+      "video": "Facebook" ,
+      "videoTitle": "XR St Albans",
+      "videoSrc": "https://www.facebook.com/plugins/video.php?href=https://www.facebook.com/2320669904634351/videos/5299444243462371"
     }
   ],
-  "lastUpdTs": "2020-09-01T10:10:10.791Z"
+  "lastUpdTs": "2020-09-01T10:32:46.321Z"
 }
