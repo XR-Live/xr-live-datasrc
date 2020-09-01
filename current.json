@@ -74,7 +74,15 @@
       "video": "facebook_189780928627796_0",
       "videoTitle": "XRLondon Live",
       "videoSrc": "https://www.facebook.com/XRLondon/videos/673120213556250"
+    },
+    {
+      "type": "facebook",
+      "media": "XRebellionUK",
+      "mediaTitle": "XRebellionUK",
+      "video": "facebook_401847960644025_0",
+      "videoTitle": "XRebellionUK Live",
+      "videoSrc": "https://www.facebook.com/XRebellionUK/videos/258274318494647"
     }
   ],
-  "lastUpdTs": "2020-09-01T11:05:08.713Z"
+  "lastUpdTs": "2020-09-01T11:10:07.684Z"
 }
