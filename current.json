@@ -92,13 +92,13 @@
 ],
 "current": [
     {
-      "type": "facebook",
-      "media": "NL Rebellion",
-      "mediaTitle": "NL Rebellion",
-      "video": "facebook_200346284174326_0",
-      "videoTitle": "NL Rebellion Live",
-      "videoSrc": "https://www.facebook.com/ExtinctionRebellionNL/videos/975257426231585"
+      "type": "youtube",
+      "media": "offline",
+      "mediaTitle": "Extinction Rebellion",
+      "video": "offline_oUIDL4SB60g",
+      "videoTitle": "Extinction Rebellion",
+      "videoSrc": "https://www.youtube.com/embed/videoseries?list=PLnzA40Blbb2mKmbNfQBCFBlgzYJ2czgWU&autoplay=1"
     }
   ],
-  "lastUpdTs": "2020-09-01T09:40:09.826Z"
+  "lastUpdTs": "2020-09-01T09:45:09.889Z"
 }
