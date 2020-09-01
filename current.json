@@ -26,6 +26,10 @@
     "HS2 Rebellion": {
       "media": "HS2 Rebellion",
       "mediaTitle": "HS2 Rebellion"
+    },
+    "Animal Rebellion": {
+      "media": "Animal Rebellion",
+      "mediaTitle": "Animal Rebellion"
     }
   },
   "sources": [
@@ -76,6 +80,14 @@
       "pageName": "HS2 Rebellion",
       "liveTitlePrefix": "HS2 Rebellion Live",
       "active": true
+    },
+    {
+      "media":" Animal Rebellion",
+      "type": "facebook",
+      "page": "481922179226690",
+      "pageName": "Animal Rebellion",
+      "liveTitlePrefix": "Animal Rebellion Live",
+      "active": true
     }
 ],
 "current": [
@@ -86,6 +98,14 @@
       "video": "facebook_409871752690636_0",
       "videoTitle": "XR Bristol Live",
       "videoSrc": "https://www.facebook.com/XRBristol/videos/1253391168334974"
+    },
+    {
+      "type": "facebook",
+      "media": "Animal Rebellion",
+      "mediaTitle": "Animal Rebellion",
+      "video": "facebook_481922179226690_0",
+      "videoTitle": "Animal Rebellion Live",
+      "videoSrc": "https://www.facebook.com/AnimalRebellion/videos/1351765261680505"
     },
     {
       "type": "Facebook" ,
@@ -104,5 +124,5 @@
       "videoSrc": "https://www.facebook.com/plugins/video.php?href=https://www.facebook.com/RTUKnews/videos/355548159158048"
     }
   ],
-  "lastUpdTs": "2020-09-01T12:07:06.289Z"
+  "lastUpdTs": "2020-09-01T12:10:10.423Z"
 }
