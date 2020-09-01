@@ -104,13 +104,13 @@
 ],
 "current": [
     {
-      "type": "facebook",
-      "media": "HS2 Rebellion",
-      "mediaTitle": "HS2 Rebellion",
-      "video": "facebook_111893330507008_0",
-      "videoTitle": "HS2 Rebellion Live",
-      "videoSrc": "https://www.facebook.com/HS2rebellion/videos/759248814650707"
+      "type": "youtube",
+      "media": "offline",
+      "mediaTitle": "Extinction Rebellion",
+      "video": "offline_oUIDL4SB60g",
+      "videoTitle": "Extinction Rebellion",
+      "videoSrc": "https://www.youtube.com/embed/videoseries?list=PLnzA40Blbb2mKmbNfQBCFBlgzYJ2czgWU&autoplay=1"
     }
   ],
-  "lastUpdTs": "2020-09-01T13:00:11.878Z"
+  "lastUpdTs": "2020-09-01T13:05:10.594Z"
 }
