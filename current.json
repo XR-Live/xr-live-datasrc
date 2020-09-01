@@ -130,15 +130,7 @@
       "video": "Youtube" ,
       "videoTitle": "yes",
       "videoSrc": "https://www.youtube.com/embed/-naBB7uq6zM"
-    },
-    {
-      "type": "Youtube" ,
-      "media": "yes",
-      "mediaTitle": "yes",
-      "video": "Youtube" ,
-      "videoTitle": "yes",
-      "videoSrc": "https://www.youtube.com/embed/_OLFLuT82HY"
     }
   ],
-  "lastUpdTs": "2020-09-01T12:20:10.573Z"
+  "lastUpdTs": "2020-09-01T12:25:09.401Z"
 }
