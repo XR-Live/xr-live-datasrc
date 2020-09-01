@@ -11,10 +11,6 @@
       "media": "nepocide",
       "mediaTitle": "nepocide"
     },
-    "XRebellionUK": {
-      "media": "XRebellionUK",
-      "mediaTitle": "XRebellionUK"
-    },
     "NL Rebellion": {
       "media": "NL Rebellion",
       "mediaTitle": "NL Rebellion"
@@ -26,6 +22,10 @@
     "XR Bristol": {
       "media": "XR Bristol",
       "mediaTitle": "XR Bristol"
+    },
+    "HS2 Rebellion": {
+      "media": "HS2 Rebellion",
+      "mediaTitle": "HS2 Rebellion"
     }
   },
   "sources": [
@@ -43,14 +43,6 @@
       "page": "207750146812696",
       "pageName": "nepocide",
       "liveTitlePrefix": "nepocide Live",
-      "active": true
-    },
-    {
-      "media":" XRebellionUK",
-      "type": "facebook",
-      "page": "401847960644025",
-      "pageName": "XRebellionUK",
-      "liveTitlePrefix": "XRebellionUK Live",
       "active": true
     },
     {
@@ -76,6 +68,14 @@
       "pageName": "XR Bristol",
       "liveTitlePrefix": "XR Bristol Live",
       "active": true
+    },
+    {
+      "media":" HS2 Rebellion",
+      "type": "facebook",
+      "page": "111893330507008",
+      "pageName": "HS2 Rebellion",
+      "liveTitlePrefix": "HS2 Rebellion Live",
+      "active": true
     }
 ],
 "current": [
@@ -88,12 +88,12 @@
       "videoSrc": "https://www.facebook.com/XRBristol/videos/1253391168334974"
     },
     {
-      "type": "Facebook" ,
-      "media": "Cymru XR",
-      "mediaTitle": "Cymru XR",
-      "video": "Facebook" ,
-      "videoTitle": "Cymru XR",
-      "videoSrc": "https://www.facebook.com/plugins/video.php?href=https://www.facebook.com/XRCymru/videos/336490730877970"
+      "type": "facebook",
+      "media": "HS2 Rebellion",
+      "mediaTitle": "HS2 Rebellion",
+      "video": "facebook_111893330507008_0",
+      "videoTitle": "HS2 Rebellion Live",
+      "videoSrc": "https://www.facebook.com/HS2rebellion/videos/1227151587665128"
     },
     {
       "type": "Facebook" ,
@@ -104,5 +104,5 @@
       "videoSrc": "https://www.facebook.com/plugins/video.php?href=https://www.facebook.com/XRExeter/videos/965761807183693"
     }
   ],
-  "lastUpdTs": "2020-09-01T12:00:08.094Z"
+  "lastUpdTs": "2020-09-01T12:03:03.031Z"
 }
