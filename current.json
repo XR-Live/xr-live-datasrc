@@ -34,6 +34,10 @@
     "Cymru XR": {
       "media": "Cymru XR",
       "mediaTitle": "Cymru XR"
+    },
+    "XR UK": {
+      "media": "XR UK",
+      "mediaTitle": "XR UK"
     }
   },
   "sources": [
@@ -100,9 +104,33 @@
       "pageName": "Cymru XR",
       "liveTitlePrefix": "Cymru XR Live",
       "active": true
+    },
+    {
+      "media":" XR UK",
+      "type": "facebook",
+      "page": "401847960644025",
+      "pageName": "XR UK",
+      "liveTitlePrefix": "XR UK Live",
+      "active": true
     }
 ],
 "current": [
+    {
+      "type": "facebook",
+      "media": "Animal Rebellion",
+      "mediaTitle": "Animal Rebellion",
+      "video": "facebook_481922179226690_0",
+      "videoTitle": "Animal Rebellion Live",
+      "videoSrc": "https://www.facebook.com/AnimalRebellion/videos/360173628734503"
+    },
+    {
+      "type": "facebook",
+      "media": "XR UK",
+      "mediaTitle": "XR UK",
+      "video": "facebook_401847960644025_0",
+      "videoTitle": "XR UK Live",
+      "videoSrc": "https://www.facebook.com/XRebellionUK/videos/2572497589729351"
+    },
     {
       "type": "Facebook" ,
       "media": "yes",
@@ -112,5 +140,5 @@
       "videoSrc": "https://www.facebook.com/plugins/video.php?href=https://www.facebook.com/401847960644025/videos/2572497589729351"
     }
   ],
-  "lastUpdTs": "2020-09-01T13:25:11.271Z"
+  "lastUpdTs": "2020-09-01T13:30:11.097Z"
 }
