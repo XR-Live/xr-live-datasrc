@@ -117,11 +117,11 @@
 "current": [
     {
       "type": "facebook" ,
-      "media": "XR Bristol",
-      "mediaTitle": "XR Bristol",
+      "media": "XR London",
+      "mediaTitle": "XR London",
       "video": "facebook" ,
-      "videoTitle": "XR Bristol",
-      "videoSrc": "https://www.facebook.com/XRBristol/videos/3277114595709492"
+      "videoTitle": "XR London",
+      "videoSrc": "https://www.facebook.com/XRLondon/videos/3548203295224472"
     },
     {
       "type": "facebook" ,
@@ -129,7 +129,7 @@
       "mediaTitle": "XR London",
       "video": "facebook" ,
       "videoTitle": "XR London",
-      "videoSrc": "https://www.facebook.com/XRLondon/videos/3548203295224472"
+      "videoSrc": "https://www.facebook.com/189780928627796/videos/616621125892315"
     },
     {
       "type": "facebook" ,
@@ -148,5 +148,5 @@
       "videoSrc": "https://www.facebook.com/HS2rebellion/videos/739874903228021"
     }
   ],
-  "lastUpdTs": "2020-09-02T14:53:58.316Z"
+  "lastUpdTs": "2020-09-02T15:15:14.472Z"
 }
