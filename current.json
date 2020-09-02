@@ -116,13 +116,13 @@
 ],
 "current": [
     {
-      "type": "facebook" ,
+      "type": "facebook",
       "media": "XR London",
       "mediaTitle": "XR London",
-      "video": "facebook" ,
+      "video": "facebook",
       "videoTitle": "XR London",
-      "videoSrc": "https://www.facebook.com/plugins/video.php?href=https://www.facebook.com/189780928627796/videos/2564927543819477"
+      "videoSrc": "https://www.facebook.com/189780928627796/videos/2564927543819477"
     }
   ],
-  "lastUpdTs": "2020-09-02T09:47:06.705Z"
+  "lastUpdTs": "2020-09-02T09:48:06.705Z"
 }
