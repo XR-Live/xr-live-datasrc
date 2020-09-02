@@ -117,28 +117,20 @@
 "current": [
     {
       "type": "facebook" ,
-      "media": "XR North",
-      "mediaTitle": "XR North",
+      "media": "Animal Rebellion",
+      "mediaTitle": "Animal Rebellion",
       "video": "facebook" ,
-      "videoTitle": "XR North",
-      "videoSrc": "https://www.facebook.com/297319214386859/videos/2813205105628374/"
+      "videoTitle": "Animal Rebellion",
+      "videoSrc": "https://www.facebook.com/AnimalRebellion/videos/690264298237136"
     },
     {
       "type": "facebook" ,
-      "media": "HS2 Rebellion",
-      "mediaTitle": "HS2 Rebellion",
+      "media": "XR UK",
+      "mediaTitle": "XR UK",
       "video": "facebook" ,
-      "videoTitle": "HS2 Rebellion",
-      "videoSrc": "https://www.facebook.com/HS2rebellion/videos/2371487553154131"
-    },
-    {
-      "type": "youtube" ,
-      "media": "News Update",
-      "mediaTitle": "News Update",
-      "video": "youtube" ,
-      "videoTitle": "News Update",
-      "videoSrc": "https://www.youtube.com/embed/mngsrDdp96w"
+      "videoTitle": "XR UK",
+      "videoSrc": "https://www.facebook.com/XRebellionUK/videos/846879389179855"
     }
   ],
-  "lastUpdTs": "2020-09-02T11:02:16.411Z"
+  "lastUpdTs": "2020-09-02T11:14:07.755Z"
 }
