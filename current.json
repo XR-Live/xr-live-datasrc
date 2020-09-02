@@ -117,19 +117,19 @@
 "current": [
     {
       "type": "facebook" ,
+      "media": "XR North",
+      "mediaTitle": "XR North",
+      "video": "facebook" ,
+      "videoTitle": "XR North",
+      "videoSrc": "https://www.facebook.com/297319214386859/videos/2813205105628374/"
+    },
+    {
+      "type": "facebook" ,
       "media": "HS2 Rebellion",
       "mediaTitle": "HS2 Rebellion",
       "video": "facebook" ,
       "videoTitle": "HS2 Rebellion",
       "videoSrc": "https://www.facebook.com/HS2rebellion/videos/2371487553154131"
-    },
-    {
-      "type": "facebook" ,
-      "media": "XR Sheffield",
-      "mediaTitle": "XR Sheffield",
-      "video": "facebook" ,
-      "videoTitle": "XR Sheffield",
-      "videoSrc": "https://www.facebook.com/554478098325422/videos/1409068552626158"
     },
     {
       "type": "youtube" ,
@@ -140,5 +140,5 @@
       "videoSrc": "https://www.youtube.com/embed/mngsrDdp96w"
     }
   ],
-  "lastUpdTs": "2020-09-02T10:31:58.793Z"
+  "lastUpdTs": "2020-09-02T11:02:16.411Z"
 }
