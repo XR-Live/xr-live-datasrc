@@ -125,12 +125,20 @@
     },
     {
       "type": "facebook" ,
-      "media": "XR London",
-      "mediaTitle": "XR London",
+      "media": "HS2 Rebellion",
+      "mediaTitle": "HS2 Rebellion",
       "video": "facebook" ,
-      "videoTitle": "XR London",
-      "videoSrc": "https://www.facebook.com/189780928627796/videos/2564927543819477"
+      "videoTitle": "HS2 Rebellion",
+      "videoSrc": "https://www.facebook.com/HS2rebellion/videos/2371487553154131"
+    },
+    {
+      "type": "facebook" ,
+      "media": "XR Sheffield",
+      "mediaTitle": "XR Sheffield",
+      "video": "facebook" ,
+      "videoTitle": "XR Sheffield",
+      "videoSrc": "https://www.facebook.com/xrshef/videos/745718339494111"
     }
   ],
-  "lastUpdTs": "2020-09-02T10:16:24.378Z"
+  "lastUpdTs": "2020-09-02T10:23:46.170Z"
 }
