@@ -125,6 +125,14 @@
     },
     {
       "type": "facebook" ,
+      "media": "XR London",
+      "mediaTitle": "XR London",
+      "video": "facebook" ,
+      "videoTitle": "XR London",
+      "videoSrc": "https://www.facebook.com/189780928627796/videos/1243405282696357"
+    },
+    {
+      "type": "facebook" ,
       "media": "HS2 Rebellion",
       "mediaTitle": "HS2 Rebellion",
       "video": "facebook" ,
@@ -132,5 +140,5 @@
       "videoSrc": "https://www.facebook.com/111893330507008/videos/334295184428602"
     }
   ],
-  "lastUpdTs": "2020-09-02T15:52:52.946Z"
+  "lastUpdTs": "2020-09-02T16:09:15.541Z"
 }
