@@ -122,15 +122,7 @@
       "video": "facebook" ,
       "videoTitle": "XR UK",
       "videoSrc": "https://www.facebook.com/XRebellionUK/videos/846879389179855"
-    },
-    {
-      "type": "youtube" ,
-      "media": "News Update",
-      "mediaTitle": "News Update",
-      "video": "youtube" ,
-      "videoTitle": "News Update",
-      "videoSrc": "https://www.youtube.com/embed/mngsrDdp96w"
     }
   ],
-  "lastUpdTs": "2020-09-02T11:26:43.772Z"
+  "lastUpdTs": "2020-09-02T12:35:25.630Z"
 }
