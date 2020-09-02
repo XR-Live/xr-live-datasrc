@@ -34,10 +34,6 @@
     "Cymru XR": {
       "media": "Cymru XR",
       "mediaTitle": "Cymru XR"
-    },
-    "XR UK": {
-      "media": "XR UK",
-      "mediaTitle": "XR UK"
     }
   },
   "sources": [
@@ -103,14 +99,6 @@
       "page": "422051668596683",
       "pageName": "Cymru XR",
       "liveTitlePrefix": "Cymru XR Live",
-      "active": true
-    },
-    {
-      "media":" XR UK",
-      "type": "facebook",
-      "page": "401847960644025",
-      "pageName": "XR UK",
-      "liveTitlePrefix": "XR UK Live",
       "active": true
     }
 ],
