@@ -117,20 +117,20 @@
 "current": [
     {
       "type": "facebook" ,
-      "media": "Animal Rebellion",
-      "mediaTitle": "Animal Rebellion",
-      "video": "facebook" ,
-      "videoTitle": "Animal Rebellion",
-      "videoSrc": "https://www.facebook.com/AnimalRebellion/videos/690264298237136"
-    },
-    {
-      "type": "facebook" ,
       "media": "XR UK",
       "mediaTitle": "XR UK",
       "video": "facebook" ,
       "videoTitle": "XR UK",
       "videoSrc": "https://www.facebook.com/XRebellionUK/videos/846879389179855"
+    },
+    {
+      "type": "youtube" ,
+      "media": "News Update",
+      "mediaTitle": "News Update",
+      "video": "youtube" ,
+      "videoTitle": "News Update",
+      "videoSrc": "https://www.youtube.com/embed/mngsrDdp96w"
     }
   ],
-  "lastUpdTs": "2020-09-02T11:14:07.755Z"
+  "lastUpdTs": "2020-09-02T11:26:43.772Z"
 }
