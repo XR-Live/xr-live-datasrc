@@ -116,12 +116,12 @@
 ],
 "current": [
     {
-      "type": "Facebook" ,
-      "media": "XR UK",
-      "mediaTitle": "XR UK",
-      "video": "Facebook" ,
-      "videoTitle": "XR UK",
-      "videoSrc": "https://www.facebook.com/XRebellionUK/videos/1035969590178107"
+      "type":"facebook",
+      "media":"XR UK",
+      "mediaTitle":"XR UK",
+      "video":"facebook",
+      "videoTitle":"XR UK",
+      "videoSrc":"https://www.facebook.com/XRebellionUK/videos/1035969590178107"
     }
   ],
   "lastUpdTs": "2020-09-02T09:12:11.891Z"
