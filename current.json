@@ -122,7 +122,15 @@
       "video": "facebook" ,
       "videoTitle": "XR UK",
       "videoSrc": "https://www.facebook.com/XRebellionUK/videos/846879389179855"
+    },
+    {
+      "type": "facebook" ,
+      "media": "XR Cambridge",
+      "mediaTitle": "XR Cambridge",
+      "video": "facebook" ,
+      "videoTitle": "XR Cambridge",
+      "videoSrc": "https://www.facebook.com/xrcambridge/videos/310347070069787"
     }
   ],
-  "lastUpdTs": "2020-09-02T12:35:25.630Z"
+  "lastUpdTs": "2020-09-02T13:12:47.648Z"
 }
