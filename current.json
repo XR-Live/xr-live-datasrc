@@ -125,6 +125,14 @@
     },
     {
       "type": "facebook" ,
+      "media": "XR South West Britain",
+      "mediaTitle": "XR South West Britain",
+      "video": "facebook" ,
+      "videoTitle": "XR South West Britain",
+      "videoSrc": "https://www.facebook.com/XRSWB/videos/764293661057952"
+    },
+    {
+      "type": "facebook" ,
       "media": "HS2 Rebellion",
       "mediaTitle": "HS2 Rebellion",
       "video": "facebook" ,
@@ -140,5 +148,5 @@
       "videoSrc": "https://www.facebook.com/21226447182/videos/975728186241665/"
     }
   ],
-  "lastUpdTs": "2020-09-02T15:41:46.267Z"
+  "lastUpdTs": "2020-09-02T15:42:50.921Z"
 }
