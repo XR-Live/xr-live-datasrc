@@ -116,21 +116,13 @@
 ],
 "current": [
     {
-      "type": "facebook" ,
-      "media": "XR Brighton",
-      "mediaTitle": "XR Brighton",
-      "video": "facebook" ,
-      "videoTitle": "XR Brighton",
-      "videoSrc": "https://www.facebook.com/nepocide/videos/1013858942382680"
-    },
-    {
-      "type": "facebook" ,
-      "media": "XR Cambridge",
-      "mediaTitle": "XR Cambridge",
-      "video": "facebook" ,
-      "videoTitle": "XR Cambridge",
-      "videoSrc": "https://www.facebook.com/xrcambridge/videos/310347070069787"
+      "type": "youtube",
+      "media": "offline",
+      "mediaTitle": "Extinction Rebellion",
+      "video": "offline_oUIDL4SB60g",
+      "videoTitle": "Extinction Rebellion",
+      "videoSrc": "https://www.facebook.com/plugins/video.php?href=https://www.facebook.com/XRebellionUK/videos/2741746629402687"
     }
   ],
-  "lastUpdTs": "2020-09-02T13:42:41.275Z"
+  "lastUpdTs": "2020-09-02T14:03:41.054Z"
 }
