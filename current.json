@@ -117,6 +117,14 @@
 "current": [
     {
       "type": "facebook" ,
+      "media": "XR Brighton",
+      "mediaTitle": "XR Brighton",
+      "video": "facebook" ,
+      "videoTitle": "XR Brighton",
+      "videoSrc": "https://www.facebook.com/nepocide/videos/1013858942382680"
+    },
+    {
+      "type": "facebook" ,
       "media": "XR Cambridge",
       "mediaTitle": "XR Cambridge",
       "video": "facebook" ,
@@ -124,5 +132,5 @@
       "videoSrc": "https://www.facebook.com/xrcambridge/videos/310347070069787"
     }
   ],
-  "lastUpdTs": "2020-09-02T13:36:44.490Z"
+  "lastUpdTs": "2020-09-02T13:42:41.275Z"
 }
