@@ -122,7 +122,15 @@
       "video": "facebook" ,
       "videoTitle": "XR UK",
       "videoSrc": "https://www.facebook.com/401847960644025/videos/2851090234990506"
+    },
+    {
+      "type": "facebook" ,
+      "media": "XR London",
+      "mediaTitle": "XR London",
+      "video": "facebook" ,
+      "videoTitle": "XR London",
+      "videoSrc": "https://www.facebook.com/189780928627796/videos/1192592774448754"
     }
   ],
-  "lastUpdTs": "2020-09-02T17:44:11.086Z"
+  "lastUpdTs": "2020-09-02T18:05:36.198Z"
 }
