@@ -117,14 +117,6 @@
 "current": [
     {
       "type": "facebook" ,
-      "media": "XR UK",
-      "mediaTitle": "XR UK",
-      "video": "facebook" ,
-      "videoTitle": "XR UK",
-      "videoSrc": "https://www.facebook.com/401847960644025/videos/846879389179855"
-    },
-    {
-      "type": "facebook" ,
       "media": "XR Cambridge",
       "mediaTitle": "XR Cambridge",
       "video": "facebook" ,
@@ -132,5 +124,5 @@
       "videoSrc": "https://www.facebook.com/xrcambridge/videos/310347070069787"
     }
   ],
-  "lastUpdTs": "2020-09-02T13:33:35.552Z"
+  "lastUpdTs": "2020-09-02T13:36:44.490Z"
 }
