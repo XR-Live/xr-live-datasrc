@@ -125,6 +125,14 @@
     },
     {
       "type": "facebook",
+      "media": "XR Bristol",
+      "mediaTitle": "XR Bristol",
+      "video": "facebook_409871752690636_0",
+      "videoTitle": "XR Bristol Live",
+      "videoSrc": "https://www.facebook.com/XRBristol/videos/921290038359704"
+    },
+    {
+      "type": "facebook",
       "media": "Animal Rebellion",
       "mediaTitle": "Animal Rebellion",
       "video": "facebook_481922179226690_0",
@@ -140,5 +148,5 @@
       "videoSrc": "https://www.facebook.com/100372565083723/videos/983459872103002"
     }
   ],
-  "lastUpdTs": "2020-09-03T10:53:07.556Z"
+  "lastUpdTs": "2020-09-03T10:55:09.833Z"
 }
