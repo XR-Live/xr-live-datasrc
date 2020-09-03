@@ -116,13 +116,13 @@
 ],
 "current": [
     {
-      "type": "youtube",
-      "media": "offline",
-      "mediaTitle": "Extinction Rebellion",
-      "video": "offline_oUIDL4SB60g",
-      "videoTitle": "Extinction Rebellion",
-      "videoSrc": "https://www.facebook.com/plugins/video.php?href=https://www.facebook.com/XRebellionUK/videos/2741746629402687"
+      "type": "facebook",
+      "media": "Animal Rebellion",
+      "mediaTitle": "Animal Rebellion",
+      "video": "facebook_481922179226690_0",
+      "videoTitle": "Animal Rebellion Live",
+      "videoSrc": "https://www.facebook.com/AnimalRebellion/videos/358322061842245"
     }
   ],
-  "lastUpdTs": "2020-09-03T11:25:12.047Z"
+  "lastUpdTs": "2020-09-03T11:35:11.818Z"
 }
