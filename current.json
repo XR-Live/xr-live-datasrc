@@ -149,14 +149,6 @@
     },
     {
       "type": "facebook" ,
-      "media": "XR London",
-      "mediaTitle": "XR London",
-      "video": "facebook" ,
-      "videoTitle": "XR London",
-      "videoSrc": "https://www.facebook.com/XRLondon/videos/364140821252208"
-    },
-    {
-      "type": "facebook" ,
       "media": "XR Cambridge",
       "mediaTitle": "XR Cambridge",
       "video": "facebook" ,
@@ -164,5 +156,5 @@
       "videoSrc": "https://www.facebook.com/xrcambridge/videos/4782040471809725"
     }
   ],
-  "lastUpdTs": "2020-09-03T08:33:33.832Z"
+  "lastUpdTs": "2020-09-03T08:37:52.977Z"
 }
