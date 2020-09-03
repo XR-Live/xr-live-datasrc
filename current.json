@@ -106,7 +106,31 @@
       "video": "facebook_100372565083723_0",
       "videoTitle": "XR South East Live",
       "videoSrc": "https://www.facebook.com/XRSouthEastUK/videos/235858804437751"
+    },
+    {
+      "type": "facebook" ,
+      "media": "XR Cambridge",
+      "mediaTitle": "XR Cambridge",
+      "video": "facebook" ,
+      "videoTitle": "XR Cambridge",
+      "videoSrc": "https://www.facebook.com/xrcambridge/videos/2658392701077557"
+    },
+    {
+      "type": "facebook" ,
+      "media": "XR Brisbane",
+      "mediaTitle": "XR Brisbane",
+      "video": "facebook" ,
+      "videoTitle": "XR Brisbane",
+      "videoSrc": "https://www.facebook.com/xr.brisbane/videos/1032883527131976"
+    },
+    {
+      "type": "facebook" ,
+      "media": "XR Norwich",
+      "mediaTitle": "XR Norwich",
+      "video": "facebook" ,
+      "videoTitle": "XR Norwich",
+      "videoSrc": "https://www.facebook.com/xrnorwich/videos/739704786874219"
     }
   ],
-  "lastUpdTs": "2020-09-03T13:10:10.962Z"
+  "lastUpdTs": "2020-09-03T13:23:14.732Z"
 }
