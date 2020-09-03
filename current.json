@@ -100,14 +100,6 @@
       "videoSrc": "https://www.facebook.com/AnimalRebellion/videos/1133899437005414"
     },
     {
-      "type": "facebook",
-      "media": "XR South East UK",
-      "mediaTitle": " XR South East UK",
-      "video": "facebook_100372565083723_0",
-      "videoTitle": "XR South East Live",
-      "videoSrc": "https://www.facebook.com/XRSouthEastUK/videos/235858804437751"
-    },
-    {
       "type": "facebook" ,
       "media": "XR Cambridge",
       "mediaTitle": "XR Cambridge",
@@ -132,5 +124,5 @@
       "videoSrc": "https://www.facebook.com/xrnorwich/videos/739704786874219"
     }
   ],
-  "lastUpdTs": "2020-09-03T13:23:14.732Z"
+  "lastUpdTs": "2020-09-03T13:30:10.300Z"
 }
