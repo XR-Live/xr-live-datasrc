@@ -122,7 +122,15 @@
       "video": "facebook_409871752690636_0",
       "videoTitle": "XR Bristol Live",
       "videoSrc": "https://www.facebook.com/XRBristol/videos/796182317824300"
+    },
+    {
+      "type": "facebook",
+      "media": "XR UK",
+      "mediaTitle": "XR UK",
+      "video": "facebook_401847960644025_0",
+      "videoTitle": "XR UK Live",
+      "videoSrc": "https://www.facebook.com/XRebellionUK/videos/679459315996006"
     }
   ],
-  "lastUpdTs": "2020-09-03T11:40:12.801Z"
+  "lastUpdTs": "2020-09-03T11:45:12.118Z"
 }
