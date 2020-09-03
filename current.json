@@ -116,21 +116,21 @@
 ],
 "current": [
     {
-      "type": "facebook" ,
-      "media": "XR Cambridge",
-      "mediaTitle": "XR Cambridge",
-      "video": "facebook" ,
-      "videoTitle": "XR Cambridge",
-      "videoSrc": "https://www.facebook.com/xrcambridge/videos/4782040471809725"
+      "type": "facebook",
+      "media": "Animal Rebellion",
+      "mediaTitle": "Animal Rebellion",
+      "video": "facebook_481922179226690_0",
+      "videoTitle": "Animal Rebellion Live",
+      "videoSrc": "https://www.facebook.com/AnimalRebellion/videos/346692540025685"
     },
     {
-      "type": "facebook" ,
-      "media": "XR Exeter",
-      "mediaTitle": "XR Exeter",
-      "video": "facebook" ,
-      "videoTitle": "XR Exeter",
-      "videoSrc": "https://www.facebook.com/302922706916968/videos/1010085116116182"
+      "type": "facebook",
+      "media": "XR UK",
+      "mediaTitle": "XR UK",
+      "video": "facebook_401847960644025_0",
+      "videoTitle": "XR UK Live",
+      "videoSrc": "https://www.facebook.com/XRebellionUK/videos/3238525192902383"
     }
   ],
-  "lastUpdTs": "2020-09-03T09:14:18.890Z"
+  "lastUpdTs": "2020-09-03T09:40:10.545Z"
 }
