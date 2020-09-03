@@ -116,85 +116,13 @@
 ],
 "current": [
     {
-      "type": "twitch" ,
-      "media": "jttv1005",
-      "mediaTitle": "jttv1005",
-      "video": "twitch" ,
-      "videoTitle": "jttv1005",
-      "videoSrc": "https://player.twitch.tv/?channel=jttv1005&parent=www.xrlive.earth"
-    },
-    {
-      "type": "twitch" ,
-      "media": "shilo_1",
-      "mediaTitle": "shilo_1",
-      "video": "twitch" ,
-      "videoTitle": "shilo_1",
-      "videoSrc": "https://player.twitch.tv/?channel=shilo_1&parent=www.xrlive.earth"
-    },
-    {
-      "type": "facebook" ,
-      "media": "Mateo Nagassi",
-      "mediaTitle": "Mateo Nagassi",
-      "video": "facebook" ,
-      "videoTitle": "Mateo Nagassi",
-      "videoSrc": "https://www.facebook.com/mateo.nagassi/videos/10221657603402738/"
-    },
-    {
-      "type": "twitch" ,
-      "media": "TheRealMoisesB",
-      "mediaTitle": "TheRealMoisesB",
-      "video": "twitch" ,
-      "videoTitle": "TheRealMoisesB",
-      "videoSrc": "https://player.twitch.tv/?channel=TheRealMoisesB&parent=www.xrlive.earth"
-    },
-    {
-      "type": "facebook" ,
-      "media": "Detroit Will Breathe",
-      "mediaTitle": "Detroit Will Breathe",
-      "video": "facebook" ,
-      "videoTitle": "Detroit Will Breathe",
-      "videoSrc": "https://www.facebook.com/107546470989707/videos/337550117392653/"
-    },
-    {
-      "type": "facebook" ,
-      "media": "Rob Baker",
-      "mediaTitle": "Rob Baker",
-      "video": "facebook" ,
-      "videoTitle": "Rob Baker",
-      "videoSrc": "https://www.facebook.com/rob.baker.5050/videos/3557198564290194/"
-    },
-    {
-      "type": "facebook" ,
-      "media": "Chicago Activist Coalition For Justice",
-      "mediaTitle": "Chicago Activist Coalition For Justice",
-      "video": "facebook" ,
-      "videoTitle": "Chicago Activist Coalition For Justice",
-      "videoSrc": "https://www.facebook.com/cacfj7/videos/797283897676082/"
-    },
-    {
-      "type": "facebook" ,
-      "media": "Gwen Bettathanu Fountain",
-      "mediaTitle": "Gwen Bettathanu Fountain",
-      "video": "facebook" ,
-      "videoTitle": "Gwen Bettathanu Fountain",
-      "videoSrc": "https://www.facebook.com/lashes33/videos/3308523902562474/"
-    },
-    {
-      "type": "facebook" ,
-      "media": "WTVC",
-      "mediaTitle": "WTVC",
-      "video": "facebook" ,
-      "videoTitle": "WTVC",
-      "videoSrc": "https://www.facebook.com/wtvcnewschannel9/videos/650856572208405/"
-    },
-    {
-      "type": "facebook" ,
-      "media": "Mark Clements",
-      "mediaTitle": "Mark Clements",
-      "video": "facebook" ,
-      "videoTitle": "Mark Clements",
-      "videoSrc": "https://www.facebook.com/Prisonerspeaks/videos/1265726437115541/"
+      "type": "youtube" ,
+      "media": "Extinction Rebellion",
+      "mediaTitle": "Extinction Rebellion",
+      "video": "youtube" ,
+      "videoTitle": "Extinction Rebellion",
+      "videoSrc": "https://www.youtube.com/embed/QjiKLKg_8xc?autoplay=1"
     }
   ],
-  "lastUpdTs": "2020-09-03T00:23:49.144Z"
+  "lastUpdTs": "2020-09-03T00:42:25.861Z"
 }
