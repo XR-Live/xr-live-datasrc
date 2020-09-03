@@ -92,13 +92,13 @@
 ],
 "current": [
     {
-      "type": "youtube",
-      "media": "offline",
-      "mediaTitle": "Extinction Rebellion",
-      "video": "offline_oUIDL4SB60g",
-      "videoTitle": "Extinction Rebellion",
-      "videoSrc": "https://www.facebook.com/plugins/video.php?href=https://www.facebook.com/XRebellionUK/videos/2741746629402687"
+      "type": "facebook" ,
+      "media": "XR Cambridge",
+      "mediaTitle": "XR Cambridge",
+      "video": "facebook" ,
+      "videoTitle": "XR Cambridge",
+      "videoSrc": "https://www.facebook.com/232224781008707/videos/364658344546844"
     }
   ],
-  "lastUpdTs": "2020-09-03T18:25:11.454Z"
+  "lastUpdTs": "2020-09-03T18:51:19.051Z"
 }
