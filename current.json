@@ -109,14 +109,6 @@
     },
     {
       "type": "facebook" ,
-      "media": "XR Brisbane",
-      "mediaTitle": "XR Brisbane",
-      "video": "facebook" ,
-      "videoTitle": "XR Brisbane",
-      "videoSrc": "https://www.facebook.com/xr.brisbane/videos/1032883527131976"
-    },
-    {
-      "type": "facebook" ,
       "media": "XR Norwich",
       "mediaTitle": "XR Norwich",
       "video": "facebook" ,
@@ -124,5 +116,5 @@
       "videoSrc": "https://www.facebook.com/xrnorwich/videos/739704786874219"
     }
   ],
-  "lastUpdTs": "2020-09-03T13:30:10.300Z"
+  "lastUpdTs": "2020-09-03T13:35:12.034Z"
 }
