@@ -116,6 +116,22 @@
 ],
 "current": [
     {
+      "type": "facebook",
+      "media": "XRLondon",
+      "mediaTitle": "XRLondon",
+      "video": "facebook_189780928627796_0",
+      "videoTitle": "XRLondon Live",
+      "videoSrc": "https://www.facebook.com/XRLondon/videos/2526990124258384"
+    },
+    {
+      "type": "facebook",
+      "media": "Animal Rebellion",
+      "mediaTitle": "Animal Rebellion",
+      "video": "facebook_481922179226690_0",
+      "videoTitle": "Animal Rebellion Live",
+      "videoSrc": "https://www.facebook.com/AnimalRebellion/videos/834354517097046"
+    },
+    {
       "type": "facebook" ,
       "media": "XR South East UK",
       "mediaTitle": "XR South East UK",
@@ -124,5 +140,5 @@
       "videoSrc": "https://www.facebook.com/100372565083723/videos/983459872103002"
     }
   ],
-  "lastUpdTs": "2020-09-03T10:29:08.003Z"
+  "lastUpdTs": "2020-09-03T10:33:23.213Z"
 }
