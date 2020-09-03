@@ -93,28 +93,20 @@
 "current": [
     {
       "type": "facebook",
-      "media": "Animal Rebellion",
-      "mediaTitle": "Animal Rebellion",
-      "video": "facebook_481922179226690_0",
-      "videoTitle": "Animal Rebellion Live",
-      "videoSrc": "https://www.facebook.com/AnimalRebellion/videos/1133899437005414"
+      "media": "XR UK",
+      "mediaTitle": "XR UK",
+      "video": "facebook_401847960644025_0",
+      "videoTitle": "XR UK Live",
+      "videoSrc": "https://www.facebook.com/XRebellionUK/videos/401604387493733"
     },
     {
       "type": "facebook" ,
-      "media": "XR Cambridge",
-      "mediaTitle": "XR Cambridge",
+      "media": "XR Brisbane",
+      "mediaTitle": "XR Brisbane",
       "video": "facebook" ,
-      "videoTitle": "XR Cambridge",
-      "videoSrc": "https://www.facebook.com/xrcambridge/videos/2658392701077557"
-    },
-    {
-      "type": "facebook" ,
-      "media": "XR Norwich",
-      "mediaTitle": "XR Norwich",
-      "video": "facebook" ,
-      "videoTitle": "XR Norwich",
-      "videoSrc": "https://www.facebook.com/xrnorwich/videos/739704786874219"
+      "videoTitle": "XR Brisbane",
+      "videoSrc": "https://www.facebook.com/xr.brisbane/videos/2637325483186000"
     }
   ],
-  "lastUpdTs": "2020-09-03T13:35:12.034Z"
+  "lastUpdTs": "2020-09-03T13:45:10.383Z"
 }
