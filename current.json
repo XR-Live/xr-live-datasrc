@@ -11,14 +11,6 @@
       "media": "nepocide",
       "mediaTitle": "nepocide"
     },
-    "NL Rebellion": {
-      "media": "NL Rebellion",
-      "mediaTitle": "NL Rebellion"
-    },
-    "XR St Albans": {
-      "media": "XR St Albans",
-      "mediaTitle": "XR St Albans"
-    },
     "XR Bristol": {
       "media": "XR Bristol",
       "mediaTitle": "XR Bristol"
@@ -31,13 +23,13 @@
       "media": "Animal Rebellion",
       "mediaTitle": "Animal Rebellion"
     },
-    "Cymru XR": {
-      "media": "Cymru XR",
-      "mediaTitle": "Cymru XR"
-    },
     "XR UK": {
       "media": "XR UK",
       "mediaTitle": "XR UK"
+    },
+    "XR South East UK": {
+      "media": "XR South East UK",
+      "mediaTitle": " XR South East UK"
     }
   },
   "sources": [
@@ -55,22 +47,6 @@
       "page": "207750146812696",
       "pageName": "nepocide",
       "liveTitlePrefix": "nepocide Live",
-      "active": true
-    },
-    {
-      "media":" NL Rebellion",
-      "type": "facebook",
-      "page": "200346284174326",
-      "pageName": "NL Rebellion",
-      "liveTitlePrefix": "NL Rebellion Live",
-      "active": true
-    },
-    {
-      "media":" XR St Albans",
-      "type": "facebook",
-      "page": "2320669904634351",
-      "pageName": "XR St Albans",
-      "liveTitlePrefix": "XR St Albans Live",
       "active": true
     },
     {
@@ -98,19 +74,19 @@
       "active": true
     },
     {
-      "media":" Cymru XR",
-      "type": "facebook",
-      "page": "422051668596683",
-      "pageName": "Cymru XR",
-      "liveTitlePrefix": "Cymru XR Live",
-      "active": true
-    },
-    {
       "media":" XR UK",
       "type": "facebook",
       "page": "401847960644025",
       "pageName": "XR UK",
       "liveTitlePrefix": "XR UK Live",
+      "active": true
+    },
+    {
+      "media":" XR South East UK",
+      "type": "facebook",
+      "page": "100372565083723",
+      "pageName": " XR South East UK",
+      "liveTitlePrefix": "XR South East Live",
       "active": true
     }
 ],
@@ -125,11 +101,11 @@
     },
     {
       "type": "facebook",
-      "media": "XR UK",
-      "mediaTitle": "XR UK",
-      "video": "facebook_401847960644025_0",
-      "videoTitle": "XR UK Live",
-      "videoSrc": "https://www.facebook.com/XRebellionUK/videos/679459315996006"
+      "media": "XR South East UK",
+      "mediaTitle": " XR South East UK",
+      "video": "facebook_100372565083723_0",
+      "videoTitle": "XR South East Live",
+      "videoSrc": "https://www.facebook.com/XRSouthEastUK/videos/235858804437751"
     },
     {
       "type": "facebook" ,
@@ -140,5 +116,5 @@
       "videoSrc": "https://www.facebook.com/462176434306010/videos/3561944513837799"
     }
   ],
-  "lastUpdTs": "2020-09-03T12:25:12.374Z"
+  "lastUpdTs": "2020-09-03T13:05:12.352Z"
 }
