@@ -116,13 +116,45 @@
 ],
 "current": [
     {
-      "type": "youtube" ,
-      "media": "Extinction Rebellion",
-      "mediaTitle": "Extinction Rebellion",
-      "video": "youtube" ,
-      "videoTitle": "Extinction Rebellion",
-      "videoSrc": "https://www.youtube.com/embed/QjiKLKg_8xc?autoplay=1"
+      "type": "facebook",
+      "media": "XRLondon",
+      "mediaTitle": "XRLondon",
+      "video": "facebook_189780928627796_0",
+      "videoTitle": "XRLondon Live",
+      "videoSrc": "https://www.facebook.com/XRLondon/videos/364140821252208"
+    },
+    {
+      "type": "facebook",
+      "media": "Animal Rebellion",
+      "mediaTitle": "Animal Rebellion",
+      "video": "facebook_481922179226690_0",
+      "videoTitle": "Animal Rebellion Live",
+      "videoSrc": "https://www.facebook.com/AnimalRebellion/videos/3033893236824738"
+    },
+    {
+      "type": "facebook",
+      "media": "XR UK",
+      "mediaTitle": "XR UK",
+      "video": "facebook_401847960644025_0",
+      "videoTitle": "XR UK Live",
+      "videoSrc": "https://www.facebook.com/XRebellionUK/videos/250527152783205"
+    },
+    {
+      "type": "facebook" ,
+      "media": "XR London",
+      "mediaTitle": "XR London",
+      "video": "facebook" ,
+      "videoTitle": "XR London",
+      "videoSrc": "https://www.facebook.com/XRLondon/videos/364140821252208"
+    },
+    {
+      "type": "facebook" ,
+      "media": "XR Cambridge",
+      "mediaTitle": "XR Cambridge",
+      "video": "facebook" ,
+      "videoTitle": "XR Cambridge",
+      "videoSrc": "https://www.facebook.com/xrcambridge/videos/4782040471809725"
     }
   ],
-  "lastUpdTs": "2020-09-03T00:42:25.861Z"
+  "lastUpdTs": "2020-09-03T08:33:16.258Z"
 }
