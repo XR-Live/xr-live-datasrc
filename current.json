@@ -124,14 +124,6 @@
       "videoSrc": "https://www.facebook.com/XRLondon/videos/2526990124258384"
     },
     {
-      "type": "facebook",
-      "media": "Animal Rebellion",
-      "mediaTitle": "Animal Rebellion",
-      "video": "facebook_481922179226690_0",
-      "videoTitle": "Animal Rebellion Live",
-      "videoSrc": "https://www.facebook.com/AnimalRebellion/videos/687254105201748"
-    },
-    {
       "type": "facebook" ,
       "media": "XR South East UK",
       "mediaTitle": "XR South East UK",
@@ -140,5 +132,5 @@
       "videoSrc": "https://www.facebook.com/100372565083723/videos/983459872103002"
     }
   ],
-  "lastUpdTs": "2020-09-03T10:37:43.671Z"
+  "lastUpdTs": "2020-09-03T10:45:10.414Z"
 }
