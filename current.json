@@ -109,14 +109,6 @@
     },
     {
       "type": "facebook" ,
-      "media": "XR Norwich",
-      "mediaTitle": "XR Norwich",
-      "video": "facebook" ,
-      "videoTitle": "XR Norwich",
-      "videoSrc": "https://www.facebook.com/462176434306010/videos/778932099314121"
-    },
-    {
-      "type": "facebook" ,
       "media": "XR Cambridge",
       "mediaTitle": "XR Cambridge",
       "video": "facebook" ,
@@ -132,5 +124,5 @@
       "videoSrc": "https://www.facebook.com/HS2rebellion/videos/328245158296452"
     }
   ],
-  "lastUpdTs": "2020-09-04T09:45:04.843Z"
+  "lastUpdTs": "2020-09-04T10:02:37.158Z"
 }
