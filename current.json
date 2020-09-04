@@ -93,28 +93,12 @@
 "current": [
     {
       "type": "facebook" ,
-      "media": "XR Bristol",
-      "mediaTitle": "XR Bristol",
+      "media": "HS2 Rebellion",
+      "mediaTitle": "HS2 Rebellion",
       "video": "facebook" ,
-      "videoTitle": "XR Bristol",
-      "videoSrc": "https://www.facebook.com/XRBristol/videos/3424901484239201"
-    },
-    {
-      "type": "facebook" ,
-      "media": "XR Cornwall",
-      "mediaTitle": "XR Cornwall",
-      "video": "facebook" ,
-      "videoTitle": "XR Cornwall",
-      "videoSrc": "https://www.facebook.com/XRinCornwall/videos/339312460529655"
-    },
-    {
-      "type": "facebook" ,
-      "media": "XR South West Britain",
-      "mediaTitle": "XR South West Britain",
-      "video": "facebook" ,
-      "videoTitle": "XR South West Britain",
-      "videoSrc": "https://www.facebook.com/XRSWB/videos/1613752958784452"
+      "videoTitle": "HS2 Rebellion",
+      "videoSrc": "https://www.facebook.com/111893330507008/videos/649146825745018"
     }
   ],
-  "lastUpdTs": "2020-09-04T15:08:53.037Z"
+  "lastUpdTs": "2020-09-04T15:14:07.961Z"
 }
