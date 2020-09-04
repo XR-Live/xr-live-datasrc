@@ -86,7 +86,15 @@
       "video": "facebook" ,
       "videoTitle": "XR South East UK",
       "videoSrc": "https://www.facebook.com/XRSouthEastUK/videos/973140686446240"
+    },
+    {
+      "type": "facebook" ,
+      "media": "XR Cambridge",
+      "mediaTitle": "XR Cambridge",
+      "video": "facebook" ,
+      "videoTitle": "XR Cambridge",
+      "videoSrc": "https://www.facebook.com/232224781008707/videos/2684850081737905"
     }
   ],
-  "lastUpdTs": "2020-09-04T16:34:01.781Z"
+  "lastUpdTs": "2020-09-04T16:50:23.086Z"
 }
