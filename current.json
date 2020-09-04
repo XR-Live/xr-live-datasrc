@@ -92,12 +92,12 @@
 ],
 "current": [
     {
-      "type": "youtube" ,
+      "type": "facebook" ,
       "media": "Extinction Rebellion",
       "mediaTitle": "Extinction Rebellion",
-      "video": "youtube" ,
+      "video": "facebook" ,
       "videoTitle": "Extinction Rebellion",
-      "videoSrc": "https://www.facebook.com/ExtinctionRebellion/videos/2939626239477069?autoplay=1"
+      "videoSrc": "https://www.facebook.com/ExtinctionRebellion/videos/2939626239477069"
     },
     {
       "type": "facebook" ,
@@ -124,5 +124,5 @@
       "videoSrc": "https://www.facebook.com/xrnorwich/videos/3035380159907139"
     }
   ],
-  "lastUpdTs": "2020-09-04T12:13:09.595Z"
+  "lastUpdTs": "2020-09-04T12:15:24.627Z"
 }
