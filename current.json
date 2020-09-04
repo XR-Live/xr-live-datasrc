@@ -26,10 +26,6 @@
     "XR UK": {
       "media": "XR UK",
       "mediaTitle": "XR UK"
-    },
-    "XR South East UK": {
-      "media": "XR South East UK",
-      "mediaTitle": " XR South East UK"
     }
   },
   "sources": [
@@ -80,25 +76,17 @@
       "pageName": "XR UK",
       "liveTitlePrefix": "XR UK Live",
       "active": true
-    },
-    {
-      "media":" XR South East UK",
-      "type": "facebook",
-      "page": "100372565083723",
-      "pageName": " XR South East UK",
-      "liveTitlePrefix": "XR South East Live",
-      "active": true
     }
 ],
 "current": [
     {
-      "type": "facebook",
+      "type": "facebook" ,
       "media": "XR South East UK",
-      "mediaTitle": " XR South East UK",
-      "video": "facebook_100372565083723_0",
-      "videoTitle": "XR South East Live",
+      "mediaTitle": "XR South East UK",
+      "video": "facebook" ,
+      "videoTitle": "XR South East UK",
       "videoSrc": "https://www.facebook.com/XRSouthEastUK/videos/973140686446240"
     }
   ],
-  "lastUpdTs": "2020-09-04T16:16:01.182Z"
+  "lastUpdTs": "2020-09-04T16:17:23.739Z"
 }
