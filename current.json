@@ -98,7 +98,23 @@
       "video": "facebook" ,
       "videoTitle": "Animal Rebellion",
       "videoSrc": "https://www.facebook.com/111893330507008/videos/320454099028651"
+    },
+    {
+      "type": "facebook" ,
+      "media": "XR UK",
+      "mediaTitle": "XR UK",
+      "video": "facebook" ,
+      "videoTitle": "XR UK",
+      "videoSrc": "https://www.facebook.com/401847960644025/videos/311927033589774"
+    },
+    {
+      "type": "facebook" ,
+      "media": "XR Norwich",
+      "mediaTitle": "XR Norwich",
+      "video": "facebook" ,
+      "videoTitle": "XR Norwich",
+      "videoSrc": "https://www.facebook.com/462176434306010/videos/778932099314121"
     }
   ],
-  "lastUpdTs": "2020-09-04T09:23:53.318Z"
+  "lastUpdTs": "2020-09-04T09:39:01.706Z"
 }
