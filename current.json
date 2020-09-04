@@ -81,14 +81,6 @@
 "current": [
     {
       "type": "facebook" ,
-      "media": "XR Worcester",
-      "mediaTitle": "XR Worcester",
-      "video": "facebook" ,
-      "videoTitle": "XR Worcester",
-      "videoSrc": "https://www.facebook.com/XRWorcester/videos/831356007400552"
-    },
-    {
-      "type": "facebook" ,
       "media": "XR South East UK",
       "mediaTitle": "XR South East UK",
       "video": "facebook" ,
@@ -96,5 +88,5 @@
       "videoSrc": "https://www.facebook.com/XRSouthEastUK/videos/973140686446240"
     }
   ],
-  "lastUpdTs": "2020-09-04T16:18:59.680Z"
+  "lastUpdTs": "2020-09-04T16:34:01.781Z"
 }
