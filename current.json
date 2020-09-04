@@ -86,7 +86,15 @@
       "video": "facebook" ,
       "videoTitle": "XR South East UK",
       "videoSrc": "https://www.facebook.com/XRSouthEastUK/videos/973140686446240"
+    },
+    {
+      "type": "facebook" ,
+      "media": "XR Buddists",
+      "mediaTitle": "XR Buddists",
+      "video": "facebook" ,
+      "videoTitle": "XR Buddists",
+      "videoSrc": "https://www.facebook.com/107453267302269/videos/2794923747405197"
     }
   ],
-  "lastUpdTs": "2020-09-04T17:18:31.032Z"
+  "lastUpdTs": "2020-09-04T17:24:25.902Z"
 }
