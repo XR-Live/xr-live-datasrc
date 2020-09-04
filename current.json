@@ -92,37 +92,21 @@
 ],
 "current": [
     {
-      "type": "facebook" ,
-      "media": "Animal Rebellion",
-      "mediaTitle": "Animal Rebellion",
-      "video": "facebook" ,
-      "videoTitle": "Animal Rebellion",
-      "videoSrc": "https://www.facebook.com/111893330507008/videos/320454099028651"
+      "type": "youtube" ,
+      "media": "Extinction Rebellion",
+      "mediaTitle": "Extinction Rebellion",
+      "video": "youtube" ,
+      "videoTitle": "Extinction Rebellion",
+      "videoSrc": "https://www.facebook.com/ExtinctionRebellion/videos/2939626239477069?autoplay=1"
     },
     {
       "type": "facebook" ,
-      "media": "XR UK",
-      "mediaTitle": "XR UK",
+      "media": "XR Norwich",
+      "mediaTitle": "XR Norwich",
       "video": "facebook" ,
-      "videoTitle": "XR UK",
-      "videoSrc": "https://www.facebook.com/401847960644025/videos/311927033589774"
-    },
-    {
-      "type": "facebook" ,
-      "media": "XR Cambridge",
-      "mediaTitle": "XR Cambridge",
-      "video": "facebook" ,
-      "videoTitle": "XR Cambridge",
-      "videoSrc": "https://www.facebook.com/xrcambridge/videos/357092859002627"
-    },
-    {
-      "type": "facebook" ,
-      "media": "Animal Rebellion",
-      "mediaTitle": "Animal Rebellion",
-      "video": "facebook" ,
-      "videoTitle": "Animal Rebellion",
-      "videoSrc": "https://www.facebook.com/AnimalRebellion/videos/2726050804380722"
+      "videoTitle": "XR Norwich",
+      "videoSrc": "https://www.facebook.com/xrnorwich/videos/3035380159907139"
     }
   ],
-  "lastUpdTs": "2020-09-04T10:40:04.003Z"
+  "lastUpdTs": "2020-09-04T12:10:06.465Z"
 }
