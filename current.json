@@ -92,14 +92,6 @@
 ],
 "current": [
     {
-      "type": "facebook",
-      "media": "HS2 Rebellion",
-      "mediaTitle": "HS2 Rebellion",
-      "video": "facebook_111893330507008_0",
-      "videoTitle": "HS2 Rebellion Live",
-      "videoSrc": "https://www.facebook.com/HS2rebellion/videos/649146825745018"
-    },
-    {
       "type": "facebook" ,
       "media": "Extinction Rebellion",
       "mediaTitle": "Extinction Rebellion",
@@ -124,5 +116,5 @@
       "videoSrc": "https://www.facebook.com/xrnorwich/videos/3035380159907139"
     }
   ],
-  "lastUpdTs": "2020-09-04T12:35:10.567Z"
+  "lastUpdTs": "2020-09-04T12:40:06.531Z"
 }
