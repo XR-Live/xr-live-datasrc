@@ -101,6 +101,14 @@
     },
     {
       "type": "facebook" ,
+      "media": "XR Ireland",
+      "mediaTitle": "XR Ireland",
+      "video": "facebook" ,
+      "videoTitle": "XR Ireland",
+      "videoSrc": "https://www.facebook.com/2190187591015405/videos/353842829333287"
+    },
+    {
+      "type": "facebook" ,
       "media": "HS2 Rebellion",
       "mediaTitle": "HS2 Rebellion",
       "video": "facebook" ,
@@ -116,5 +124,5 @@
       "videoSrc": "https://www.facebook.com/xrnorwich/videos/3035380159907139"
     }
   ],
-  "lastUpdTs": "2020-09-04T12:11:50.254Z"
+  "lastUpdTs": "2020-09-04T12:13:09.595Z"
 }
