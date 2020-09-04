@@ -92,11 +92,11 @@
 ],
 "current": [
     {
-      "type": "facebook",
+      "type": "facebook" ,
       "media": "XR Bristol",
       "mediaTitle": "XR Bristol",
-      "video": "facebook_409871752690636_0",
-      "videoTitle": "XR Bristol Live",
+      "video": "facebook" ,
+      "videoTitle": "XR Bristol",
       "videoSrc": "https://www.facebook.com/XRBristol/videos/3424901484239201"
     },
     {
@@ -116,5 +116,5 @@
       "videoSrc": "https://www.facebook.com/XRHackney/videos/336916560694677"
     }
   ],
-  "lastUpdTs": "2020-09-04T14:53:48.168Z"
+  "lastUpdTs": "2020-09-04T14:54:04.622Z"
 }
