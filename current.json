@@ -114,7 +114,15 @@
       "video": "facebook" ,
       "videoTitle": "XR Cambridge",
       "videoSrc": "https://www.facebook.com/xrcambridge/videos/357092859002627"
+    },
+    {
+      "type": "facebook" ,
+      "media": "Animal Rebellion",
+      "mediaTitle": "Animal Rebellion",
+      "video": "facebook" ,
+      "videoTitle": "Animal Rebellion",
+      "videoSrc": "https://www.facebook.com/AnimalRebellion/videos/2726050804380722"
     }
   ],
-  "lastUpdTs": "2020-09-04T10:05:05.042Z"
+  "lastUpdTs": "2020-09-04T10:40:04.003Z"
 }
