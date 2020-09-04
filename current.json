@@ -92,13 +92,29 @@
 ],
 "current": [
     {
+      "type": "facebook",
+      "media": "XR Bristol",
+      "mediaTitle": "XR Bristol",
+      "video": "facebook_409871752690636_0",
+      "videoTitle": "XR Bristol Live",
+      "videoSrc": "https://www.facebook.com/XRBristol/videos/3424901484239201"
+    },
+    {
       "type": "facebook" ,
       "media": "XR Cornwall",
       "mediaTitle": "XR Cornwall",
       "video": "facebook" ,
       "videoTitle": "XR Cornwall",
       "videoSrc": "https://www.facebook.com/XRinCornwall/videos/339312460529655"
+    },
+    {
+      "type": "facebook" ,
+      "media": "XR Hackney",
+      "mediaTitle": "XR Hackney",
+      "video": "facebook" ,
+      "videoTitle": "XR Hackney",
+      "videoSrc": "https://www.facebook.com/XRHackney/videos/336916560694677"
     }
   ],
-  "lastUpdTs": "2020-09-04T14:46:52.851Z"
+  "lastUpdTs": "2020-09-04T14:53:48.168Z"
 }
