@@ -101,6 +101,14 @@
     },
     {
       "type": "facebook" ,
+      "media": "Merton XR",
+      "mediaTitle": "Merton XR",
+      "video": "facebook" ,
+      "videoTitle": "Merton XR",
+      "videoSrc": "https://www.facebook.com/mertonxr/videos/1264095450606045"
+    },
+    {
+      "type": "facebook" ,
       "media": "XR Cornwall",
       "mediaTitle": "XR Cornwall",
       "video": "facebook" ,
@@ -116,5 +124,5 @@
       "videoSrc": "https://www.facebook.com/XRSWB/videos/3571341859588614"
     }
   ],
-  "lastUpdTs": "2020-09-04T14:56:33.473Z"
+  "lastUpdTs": "2020-09-04T15:05:07.341Z"
 }
