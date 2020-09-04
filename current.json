@@ -106,7 +106,15 @@
       "video": "facebook" ,
       "videoTitle": "XR Cornwall",
       "videoSrc": "https://www.facebook.com/XRinCornwall/videos/339312460529655"
+    },
+    {
+      "type": "facebook" ,
+      "media": "XR South West Britain",
+      "mediaTitle": "XR South West Britain",
+      "video": "facebook" ,
+      "videoTitle": "XR South West Britain",
+      "videoSrc": "https://www.facebook.com/XRSWB/videos/3571341859588614"
     }
   ],
-  "lastUpdTs": "2020-09-04T14:55:30.506Z"
+  "lastUpdTs": "2020-09-04T14:56:33.473Z"
 }
