@@ -92,22 +92,6 @@
 ],
 "current": [
     {
-      "type": "facebook",
-      "media": "HS2 Rebellion",
-      "mediaTitle": "HS2 Rebellion",
-      "video": "facebook_111893330507008_0",
-      "videoTitle": "HS2 Rebellion Live",
-      "videoSrc": "https://www.facebook.com/HS2rebellion/videos/3054493218012930"
-    },
-    {
-      "type": "facebook" ,
-      "media": "Extinction Rebellion",
-      "mediaTitle": "Extinction Rebellion",
-      "video": "facebook" ,
-      "videoTitle": "Extinction Rebellion",
-      "videoSrc": "https://www.facebook.com/ExtinctionRebellion/videos/2939626239477069"
-    },
-    {
       "type": "facebook" ,
       "media": "HS2 Rebellion",
       "mediaTitle": "HS2 Rebellion",
@@ -124,5 +108,5 @@
       "videoSrc": "https://www.facebook.com/261640811370664/videos/307669047195904"
     }
   ],
-  "lastUpdTs": "2020-09-04T14:05:12.438Z"
+  "lastUpdTs": "2020-09-04T14:11:19.373Z"
 }
