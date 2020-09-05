@@ -24,7 +24,15 @@
       "video": "facebook" ,
       "videoTitle": "Extinction Rebellion Polska",
       "videoSrc": "https://www.facebook.com/XRPolska/videos/2779913405666945/"
+    },
+    {
+      "type": "facebook" ,
+      "media": "Extinction Rebellion Nottingham",
+      "mediaTitle": "Extinction Rebellion Nottingham",
+      "video": "facebook" ,
+      "videoTitle": "Extinction Rebellion Nottingham",
+      "videoSrc": "https://www.facebook.com/XRNottm/videos/375880733643193/"
     }
   ],
-  "lastUpdTs": "2020-09-05T13:00:02.197Z"
+  "lastUpdTs": "2020-09-05T13:08:02.042Z"
 }
