@@ -27,14 +27,6 @@
     },
     {
       "type": "facebook" ,
-      "media": "XR London",
-      "mediaTitle": "XR London",
-      "video": "facebook" ,
-      "videoTitle": "XR London",
-      "videoSrc": "https://www.facebook.com/XRLondon/videos/650054152612329/"
-    },
-    {
-      "type": "facebook" ,
       "media": "XR UK",
       "mediaTitle": "XR UK",
       "video": "facebook" ,
@@ -50,5 +42,5 @@
       "videoSrc": "https://www.facebook.com/XRScotland/videos/695030424425247/"
     }
   ],
-  "lastUpdTs": "2020-09-05T17:31:02.304Z"
+  "lastUpdTs": "2020-09-05T17:34:01.761Z"
 }
