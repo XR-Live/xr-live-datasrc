@@ -27,6 +27,14 @@
     },
     {
       "type": "facebook" ,
+      "media": "XR Brighton",
+      "mediaTitle": "XR Brighton",
+      "video": "facebook" ,
+      "videoTitle": "XR Brighton",
+      "videoSrc": "https://www.facebook.com/207750146812696/videos/964333947363166"
+    },
+    {
+      "type": "facebook" ,
       "media": "Extinction Rebellion Birmingham",
       "mediaTitle": "Extinction Rebellion Birmingham",
       "video": "facebook" ,
@@ -34,5 +42,5 @@
       "videoSrc": "https://www.facebook.com/388396128581740/videos/647562422847397"
     }
   ],
-  "lastUpdTs": "2020-09-05T14:06:02.051Z"
+  "lastUpdTs": "2020-09-05T14:08:01.866Z"
 }
