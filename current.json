@@ -19,6 +19,14 @@
     },
     {
       "type": "facebook" ,
+      "media": "XR Norwich",
+      "mediaTitle": "XR Norwich",
+      "video": "facebook" ,
+      "videoTitle": "XR Norwich",
+      "videoSrc": "https://www.facebook.com/462176434306010/videos/932773193871097"
+    },
+    {
+      "type": "facebook" ,
       "media": "Extinction Rebellion Southeast UK",
       "mediaTitle": "Extinction Rebellion Southeast UK",
       "video": "facebook" ,
@@ -26,5 +34,5 @@
       "videoSrc": "https://www.facebook.com/XRSouthEastUK/videos/746852636112813"
     }
   ],
-  "lastUpdTs": "2020-09-05T12:34:02.444Z"
+  "lastUpdTs": "2020-09-05T12:36:02.257Z"
 }
