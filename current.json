@@ -80,6 +80,14 @@
 ],
 "current": [
     {
+      "type": "facebook",
+      "media": "Extinction Rebellion North",
+      "mediaTitle": "Extinction Rebellion North",
+      "video": "facebook_297319214386859_0",
+      "videoTitle": "Exinction Rebellion North Live",
+      "videoSrc": "https://www.facebook.com/extinctionrebellionnorth/videos/3285755398170560"
+    },
+    {
       "type": "facebook" ,
       "media": "https://www.facebook.com/extinctionrebellionnorth/videos/336639567484511/",
       "mediaTitle": "https://www.facebook.com/extinctionrebellionnorth/videos/336639567484511/",
@@ -88,5 +96,5 @@
       "videoSrc": "https://www.facebook.com/239675493315233/videos/2595962347400581"
     }
   ],
-  "lastUpdTs": "2020-09-05T09:20:08.952Z"
+  "lastUpdTs": "2020-09-05T09:25:08.816Z"
 }
