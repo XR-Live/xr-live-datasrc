@@ -31,7 +31,7 @@
       "mediaTitle": "Cardiff Extinction Rebellion Caerdydd",
       "video": "facebook" ,
       "videoTitle": "Cardiff Extinction Rebellion Caerdydd",
-      "videoSrc": "https://www.facebook.com/watch/live/?v=647562422847397&ref=watch_permalink"
+      "videoSrc": "https://www.facebook.com/422051668596683/videos/776521123100751"
     },
     {
       "type": "facebook" ,
@@ -40,7 +40,15 @@
       "video": "facebook" ,
       "videoTitle": "Extinction Rebellion Brighton",
       "videoSrc": "https://www.facebook.com/nepocide/videos/964333947363166/"
+    },
+    {
+      "type": "facebook" ,
+      "media": "Extinction Rebellion Glasgow",
+      "mediaTitle": "Extinction Rebellion Glasgow",
+      "video": "facebook" ,
+      "videoTitle": "Extinction Rebellion Glasgow",
+      "videoSrc": "https://www.facebook.com/2185217894843808/videos/3549981678346472"
     }
   ],
-  "lastUpdTs": "2020-09-05T14:14:01.624Z"
+  "lastUpdTs": "2020-09-05T14:20:02.169Z"
 }
