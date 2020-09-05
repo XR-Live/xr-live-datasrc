@@ -81,20 +81,12 @@
 "current": [
     {
       "type": "facebook" ,
-      "media": "XR South East UK",
-      "mediaTitle": "XR South East UK",
+      "media": "XR Sydney",
+      "mediaTitle": "XR Sydney",
       "video": "facebook" ,
-      "videoTitle": "XR South East UK",
-      "videoSrc": "https://www.facebook.com/XRSouthEastUK/videos/973140686446240"
-    },
-    {
-      "type": "facebook" ,
-      "media": "XR Buddists",
-      "mediaTitle": "XR Buddists",
-      "video": "facebook" ,
-      "videoTitle": "XR Buddists",
-      "videoSrc": "https://www.facebook.com/107453267302269/videos/2794923747405197"
+      "videoTitle": "XR Sydney",
+      "videoSrc": "https://www.facebook.com/248063755208013/videos/3369844179728595"
     }
   ],
-  "lastUpdTs": "2020-09-04T17:24:25.902Z"
+  "lastUpdTs": "2020-09-05T00:28:13.564Z"
 }
