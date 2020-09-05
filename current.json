@@ -43,14 +43,6 @@
     },
     {
       "type": "facebook" ,
-      "media": "Extinction Rebellion Birmingham",
-      "mediaTitle": "Extinction Rebellion Birmingham",
-      "video": "facebook" ,
-      "videoTitle": "Extinction Rebellion Birmingham",
-      "videoSrc": "https://www.facebook.com/388396128581740/videos/647562422847397"
-    },
-    {
-      "type": "facebook" ,
       "media": "Extinction Rebellion Brighton",
       "mediaTitle": "Extinction Rebellion Brighton",
       "video": "facebook" ,
@@ -58,5 +50,5 @@
       "videoSrc": "https://www.facebook.com/nepocide/videos/964333947363166/"
     }
   ],
-  "lastUpdTs": "2020-09-05T14:11:01.995Z"
+  "lastUpdTs": "2020-09-05T14:13:02.477Z"
 }
