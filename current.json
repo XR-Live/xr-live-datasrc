@@ -3,20 +3,38 @@
     "defaultVisibleCount": 9
    },
   "media": {
-
+    "XR Australia": {
+      "media": "XR Australia",
+      "mediaTitle": "XR Australia"
+    }
   },
   "sources": [
-
+    {
+      "media":" XR Australia",
+      "type": "facebook",
+      "page": "248063755208013",
+      "pageName": "XR Australia",
+      "liveTitlePrefix": "XR Australia Live",
+      "active": true
+    }
 ],
 "current": [
+    {
+      "type": "facebook",
+      "media": "XR Australia",
+      "mediaTitle": "XR Australia",
+      "video": "facebook_248063755208013_0",
+      "videoTitle": "XR Australia Live",
+      "videoSrc": "https://www.facebook.com/XRAustralia/videos/313714186550113"
+    },
     {
       "type": "facebook" ,
       "media": "XR Australia",
       "mediaTitle": "XR Australia",
       "video": "facebook" ,
       "videoTitle": "XR Australia",
-      "videoSrc": "https://www.facebook.com/XRAustralia/videos/3437846602943946"
+      "videoSrc": "https://www.facebook.com/XRAustralia/videos/313714186550113"
     }
   ],
-  "lastUpdTs": "2020-09-05T01:00:13.293Z"
+  "lastUpdTs": "2020-09-05T01:13:23.395Z"
 }
