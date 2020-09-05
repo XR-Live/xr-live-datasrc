@@ -19,6 +19,14 @@
     },
     {
       "type": "facebook" ,
+      "media": "Extinction Rebellion Brighton",
+      "mediaTitle": "Extinction Rebellion Brighton",
+      "video": "facebook" ,
+      "videoTitle": "Extinction Rebellion Brighton",
+      "videoSrc": "https://www.facebook.com/nepocide/videos/1093672967702268/"
+    },
+    {
+      "type": "facebook" ,
       "media": "Extinction Rebellion Universities's video",
       "mediaTitle": "Extinction Rebellion Universities's video",
       "video": "facebook" ,
@@ -34,5 +42,5 @@
       "videoSrc": "https://www.facebook.com/XRinCornwall/videos/324517405632312/"
     }
   ],
-  "lastUpdTs": "2020-09-05T16:36:01.876Z"
+  "lastUpdTs": "2020-09-05T16:37:02.203Z"
 }
