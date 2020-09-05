@@ -11,14 +11,6 @@
 "current": [
     {
       "type": "facebook" ,
-      "media": "Extinction Rebellion Deutschland",
-      "mediaTitle": "Extinction Rebellion Deutschland",
-      "video": "facebook" ,
-      "videoTitle": "Extinction Rebellion Deutschland",
-      "videoSrc": "https://www.facebook.com/ExtinctionRebellionDeutschland/videos/319952735955332/"
-    },
-    {
-      "type": "facebook" ,
       "media": "Extinction Rebellion Southeast UK",
       "mediaTitle": "Extinction Rebellion Southeast UK",
       "video": "facebook" ,
@@ -26,5 +18,5 @@
       "videoSrc": "https://www.facebook.com/XRSouthEastUK/videos/746852636112813"
     }
   ],
-  "lastUpdTs": "2020-09-05T12:26:02.085Z"
+  "lastUpdTs": "2020-09-05T12:28:01.984Z"
 }
