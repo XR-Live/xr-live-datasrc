@@ -19,6 +19,14 @@
     },
     {
       "type": "facebook" ,
+      "media": "Extinction Rebellion Jews",
+      "mediaTitle": "Extinction Rebellion Jews",
+      "video": "facebook" ,
+      "videoTitle": "Extinction Rebellion Jews",
+      "videoSrc": "https://www.facebook.com/xrjews/videos/353284109028181"
+    },
+    {
+      "type": "facebook" ,
       "media": "Extinction Rebellion Brighton",
       "mediaTitle": "Extinction Rebellion Brighton",
       "video": "facebook" ,
@@ -26,5 +34,5 @@
       "videoSrc": "https://www.facebook.com/nepocide/videos/1093672967702268/"
     }
   ],
-  "lastUpdTs": "2020-09-05T16:03:01.639Z"
+  "lastUpdTs": "2020-09-05T16:04:02.033Z"
 }
