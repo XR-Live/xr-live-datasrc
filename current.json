@@ -19,20 +19,20 @@
     },
     {
       "type": "facebook" ,
-      "media": "Extinction Rebellion Exeter",
-      "mediaTitle": "Extinction Rebellion Exeter",
-      "video": "facebook" ,
-      "videoTitle": "Extinction Rebellion Exeter",
-      "videoSrc": "https://www.facebook.com/302922706916968/videos/1012228832557790"
-    },
-    {
-      "type": "facebook" ,
       "media": "Extinction Rebellion Deutschland",
       "mediaTitle": "Extinction Rebellion Deutschland",
       "video": "facebook" ,
       "videoTitle": "Extinction Rebellion Deutschland",
       "videoSrc": "https://www.facebook.com/ExtinctionRebellionDeutschland/videos/319952735955332/"
+    },
+    {
+      "type": "facebook" ,
+      "media": "Extinction Rebellion Southeast UK",
+      "mediaTitle": "Extinction Rebellion Southeast UK",
+      "video": "facebook" ,
+      "videoTitle": "Extinction Rebellion Southeast UK",
+      "videoSrc": "https://www.facebook.com/100372565083723/videos/2699039137092199"
     }
   ],
-  "lastUpdTs": "2020-09-05T12:05:01.850Z"
+  "lastUpdTs": "2020-09-05T12:06:02.144Z"
 }
