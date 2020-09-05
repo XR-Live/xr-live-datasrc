@@ -27,6 +27,14 @@
     },
     {
       "type": "facebook" ,
+      "media": "XR Cymru",
+      "mediaTitle": "XR Cymru",
+      "video": "facebook" ,
+      "videoTitle": "XR Cymru",
+      "videoSrc": "https://www.facebook.com/XRCymru/videos/776521123100751/"
+    },
+    {
+      "type": "facebook" ,
       "media": "Cardiff Extinction Rebellion Caerdydd",
       "mediaTitle": "Cardiff Extinction Rebellion Caerdydd",
       "video": "facebook" ,
@@ -50,5 +58,5 @@
       "videoSrc": "https://www.facebook.com/409871752690636/videos/806892783405619"
     }
   ],
-  "lastUpdTs": "2020-09-05T14:24:01.873Z"
+  "lastUpdTs": "2020-09-05T14:27:02.291Z"
 }
