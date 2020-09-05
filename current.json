@@ -27,19 +27,11 @@
     },
     {
       "type": "facebook" ,
-      "media": "XR Brighton",
-      "mediaTitle": "XR Brighton",
-      "video": "facebook" ,
-      "videoTitle": "XR Brighton",
-      "videoSrc": "https://www.facebook.com/207750146812696/videos/964333947363166"
-    },
-    {
-      "type": "facebook" ,
       "media": "Cardiff Extinction Rebellion Caerdydd",
       "mediaTitle": "Cardiff Extinction Rebellion Caerdydd",
       "video": "facebook" ,
       "videoTitle": "Cardiff Extinction Rebellion Caerdydd",
-      "videoSrc": "https://www.facebook.com/XRCardiff/videos/3449425218470293/"
+      "videoSrc": "https://www.facebook.com/watch/live/?v=647562422847397&ref=watch_permalink"
     },
     {
       "type": "facebook" ,
@@ -50,5 +42,5 @@
       "videoSrc": "https://www.facebook.com/nepocide/videos/964333947363166/"
     }
   ],
-  "lastUpdTs": "2020-09-05T14:13:02.477Z"
+  "lastUpdTs": "2020-09-05T14:14:01.624Z"
 }
