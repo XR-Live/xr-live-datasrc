@@ -11,6 +11,14 @@
 "current": [
     {
       "type": "facebook" ,
+      "media": "XR UK",
+      "mediaTitle": "XR UK",
+      "video": "facebook" ,
+      "videoTitle": "XR UK",
+      "videoSrc": "https://www.facebook.com/XRebellionUK/videos/3197269800380623/"
+    },
+    {
+      "type": "facebook" ,
       "media": "XR London",
       "mediaTitle": "XR London",
       "video": "facebook" ,
@@ -42,5 +50,5 @@
       "videoSrc": "https://www.facebook.com/XRinCornwall/videos/324517405632312/"
     }
   ],
-  "lastUpdTs": "2020-09-05T16:37:02.203Z"
+  "lastUpdTs": "2020-09-05T16:47:02.334Z"
 }
