@@ -27,6 +27,14 @@
     },
     {
       "type": "facebook" ,
+      "media": "Extinction Rebellion Jews",
+      "mediaTitle": "Extinction Rebellion Jews",
+      "video": "facebook" ,
+      "videoTitle": "Extinction Rebellion Jews",
+      "videoSrc": "https://www.facebook.com/xrjews/videos/4321946984545011/"
+    },
+    {
+      "type": "facebook" ,
       "media": "Extinction Rebellion Brighton",
       "mediaTitle": "Extinction Rebellion Brighton",
       "video": "facebook" ,
@@ -43,14 +51,6 @@
     },
     {
       "type": "facebook" ,
-      "media": "Extinction Rebellion Universities's video",
-      "mediaTitle": "Extinction Rebellion Universities's video",
-      "video": "facebook" ,
-      "videoTitle": "Extinction Rebellion Universities's video",
-      "videoSrc": "https://www.facebook.com/XRUniversitiesUK/videos/3259905080767560/"
-    },
-    {
-      "type": "facebook" ,
       "media": "Extinction Rebellion Cornwall",
       "mediaTitle": "Extinction Rebellion Cornwall",
       "video": "facebook" ,
@@ -58,5 +58,5 @@
       "videoSrc": "https://www.facebook.com/XRinCornwall/videos/324517405632312/"
     }
   ],
-  "lastUpdTs": "2020-09-05T16:49:02.050Z"
+  "lastUpdTs": "2020-09-05T16:51:02.148Z"
 }
