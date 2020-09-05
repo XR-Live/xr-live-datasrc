@@ -27,22 +27,6 @@
     },
     {
       "type": "facebook" ,
-      "media": "Extinction Rebellion Northampton",
-      "mediaTitle": "Extinction Rebellion Northampton",
-      "video": "facebook" ,
-      "videoTitle": "Extinction Rebellion Northampton",
-      "videoSrc": "https://www.facebook.com/XRNorthampton/videos/337866690592361/"
-    },
-    {
-      "type": "facebook" ,
-      "media": "Cardiff Extinction Rebellion Caerdydd",
-      "mediaTitle": "Cardiff Extinction Rebellion Caerdydd",
-      "video": "facebook" ,
-      "videoTitle": "Cardiff Extinction Rebellion Caerdydd",
-      "videoSrc": "https://www.facebook.com/XRCardiff/videos/3449425218470293/"
-    },
-    {
-      "type": "facebook" ,
       "media": "Extinction Rebellion Birmingham",
       "mediaTitle": "Extinction Rebellion Birmingham",
       "video": "facebook" ,
@@ -50,5 +34,5 @@
       "videoSrc": "https://www.facebook.com/388396128581740/videos/647562422847397"
     }
   ],
-  "lastUpdTs": "2020-09-05T13:52:01.703Z"
+  "lastUpdTs": "2020-09-05T14:06:02.051Z"
 }
