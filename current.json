@@ -11,14 +11,6 @@
 "current": [
     {
       "type": "facebook" ,
-      "media": "XR South East UK",
-      "mediaTitle": "XR South East UK",
-      "video": "facebook" ,
-      "videoTitle": "XR South East UK",
-      "videoSrc": "https://www.facebook.com/XRSouthEastUK/videos/2699039137092199/"
-    },
-    {
-      "type": "facebook" ,
       "media": "Extinction Rebellion Polska",
       "mediaTitle": "Extinction Rebellion Polska",
       "video": "facebook" ,
@@ -42,5 +34,5 @@
       "videoSrc": "https://www.facebook.com/XRSouthEastUK/videos/746852636112813"
     }
   ],
-  "lastUpdTs": "2020-09-05T12:09:02.345Z"
+  "lastUpdTs": "2020-09-05T12:12:02.346Z"
 }
