@@ -24,7 +24,15 @@
       "video": "facebook" ,
       "videoTitle": "Extinction Rebellion Universities's video",
       "videoSrc": "https://www.facebook.com/XRUniversitiesUK/videos/3259905080767560/"
+    },
+    {
+      "type": "facebook" ,
+      "media": "Extinction Rebellion Cornwall",
+      "mediaTitle": "Extinction Rebellion Cornwall",
+      "video": "facebook" ,
+      "videoTitle": "Extinction Rebellion Cornwall",
+      "videoSrc": "https://www.facebook.com/XRinCornwall/videos/324517405632312/"
     }
   ],
-  "lastUpdTs": "2020-09-05T16:35:02.430Z"
+  "lastUpdTs": "2020-09-05T16:36:01.876Z"
 }
