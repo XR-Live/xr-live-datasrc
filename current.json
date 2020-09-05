@@ -11,6 +11,22 @@
 "current": [
     {
       "type": "facebook" ,
+      "media": "XR South East UK",
+      "mediaTitle": "XR South East UK",
+      "video": "facebook" ,
+      "videoTitle": "XR South East UK",
+      "videoSrc": "https://www.facebook.com/XRSouthEastUK/videos/305722164064631"
+    },
+    {
+      "type": "facebook" ,
+      "media": "XR Norwich",
+      "mediaTitle": "XR Norwich",
+      "video": "facebook" ,
+      "videoTitle": "XR Norwich",
+      "videoSrc": "https://www.facebook.com/xrnorwich/videos/693716504551802"
+    },
+    {
+      "type": "facebook" ,
       "media": "Extinction Rebellion Polska",
       "mediaTitle": "Extinction Rebellion Polska",
       "video": "facebook" ,
@@ -34,5 +50,5 @@
       "videoSrc": "https://www.facebook.com/XRSouthEastUK/videos/746852636112813"
     }
   ],
-  "lastUpdTs": "2020-09-05T12:12:02.346Z"
+  "lastUpdTs": "2020-09-05T12:14:02.064Z"
 }
