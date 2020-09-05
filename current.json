@@ -35,6 +35,14 @@
     },
     {
       "type": "facebook" ,
+      "media": "Extinction Rebellion Norwich",
+      "mediaTitle": "Extinction Rebellion Norwich",
+      "video": "facebook" ,
+      "videoTitle": "Extinction Rebellion Norwich",
+      "videoSrc": "https://www.facebook.com/xrnorwich/videos/606309600248674/"
+    },
+    {
+      "type": "facebook" ,
       "media": "Extinction Rebellion Universities's video",
       "mediaTitle": "Extinction Rebellion Universities's video",
       "video": "facebook" ,
@@ -50,5 +58,5 @@
       "videoSrc": "https://www.facebook.com/XRinCornwall/videos/324517405632312/"
     }
   ],
-  "lastUpdTs": "2020-09-05T16:47:02.334Z"
+  "lastUpdTs": "2020-09-05T16:49:02.050Z"
 }
