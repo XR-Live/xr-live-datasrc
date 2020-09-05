@@ -43,14 +43,6 @@
     },
     {
       "type": "facebook" ,
-      "media": "Extinction Rebellion Brighton",
-      "mediaTitle": "Extinction Rebellion Brighton",
-      "video": "facebook" ,
-      "videoTitle": "Extinction Rebellion Brighton",
-      "videoSrc": "https://www.facebook.com/nepocide/videos/1093672967702268/"
-    },
-    {
-      "type": "facebook" ,
       "media": "Extinction Rebellion Norwich",
       "mediaTitle": "Extinction Rebellion Norwich",
       "video": "facebook" ,
@@ -58,5 +50,5 @@
       "videoSrc": "https://www.facebook.com/xrnorwich/videos/606309600248674/"
     }
   ],
-  "lastUpdTs": "2020-09-05T16:57:02.275Z"
+  "lastUpdTs": "2020-09-05T17:03:02.432Z"
 }
