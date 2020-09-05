@@ -43,14 +43,6 @@
     },
     {
       "type": "facebook" ,
-      "media": "Extinction Rebellion Glasgow",
-      "mediaTitle": "Extinction Rebellion Glasgow",
-      "video": "facebook" ,
-      "videoTitle": "Extinction Rebellion Glasgow",
-      "videoSrc": "https://www.facebook.com/2185217894843808/videos/3549981678346472"
-    },
-    {
-      "type": "facebook" ,
       "media": "Extinction Rebellion Bristol",
       "mediaTitle": "Extinction Rebellion Bristol",
       "video": "facebook" ,
@@ -58,5 +50,5 @@
       "videoSrc": "https://www.facebook.com/409871752690636/videos/806892783405619"
     }
   ],
-  "lastUpdTs": "2020-09-05T14:21:02.446Z"
+  "lastUpdTs": "2020-09-05T14:24:01.873Z"
 }
