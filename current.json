@@ -19,14 +19,6 @@
     },
     {
       "type": "facebook" ,
-      "media": "XR London",
-      "mediaTitle": "XR London",
-      "video": "facebook" ,
-      "videoTitle": "XR London",
-      "videoSrc": "https://www.facebook.com/XRLondon/videos/313382423282898/"
-    },
-    {
-      "type": "facebook" ,
       "media": "XR Cymru",
       "mediaTitle": "XR Cymru",
       "video": "facebook" ,
@@ -40,15 +32,7 @@
       "video": "facebook" ,
       "videoTitle": "Cardiff Extinction Rebellion Caerdydd",
       "videoSrc": "https://www.facebook.com/422051668596683/videos/776521123100751"
-    },
-    {
-      "type": "facebook" ,
-      "media": "Extinction Rebellion Bristol",
-      "mediaTitle": "Extinction Rebellion Bristol",
-      "video": "facebook" ,
-      "videoTitle": "Extinction Rebellion Bristol",
-      "videoSrc": "https://www.facebook.com/409871752690636/videos/806892783405619"
     }
   ],
-  "lastUpdTs": "2020-09-05T14:28:02.521Z"
+  "lastUpdTs": "2020-09-05T14:38:02.539Z"
 }
