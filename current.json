@@ -32,7 +32,15 @@
       "video": "facebook" ,
       "videoTitle": "Cardiff Extinction Rebellion Caerdydd",
       "videoSrc": "https://www.facebook.com/XRCardiff/videos/1645372285640500/"
+    },
+    {
+      "type": "facebook" ,
+      "media": "Extinction Rebellion Brighton",
+      "mediaTitle": "Extinction Rebellion Brighton",
+      "video": "facebook" ,
+      "videoTitle": "Extinction Rebellion Brighton",
+      "videoSrc": "https://www.facebook.com/nepocide/videos/1093672967702268/"
     }
   ],
-  "lastUpdTs": "2020-09-05T15:21:01.631Z"
+  "lastUpdTs": "2020-09-05T15:35:02.214Z"
 }
