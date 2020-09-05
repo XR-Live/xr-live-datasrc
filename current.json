@@ -7,10 +7,6 @@
       "media": "XRLondon",
       "mediaTitle": "XRLondon"
     },
-    "nepocide": {
-      "media": "nepocide",
-      "mediaTitle": "nepocide"
-    },
     "XR Bristol": {
       "media": "XR Bristol",
       "mediaTitle": "XR Bristol"
@@ -26,6 +22,10 @@
     "XR UK": {
       "media": "XR UK",
       "mediaTitle": "XR UK"
+    },
+    "Extinction Rebellion North": {
+      "media": "Extinction Rebellion North",
+      "mediaTitle": "Extinction Rebellion North"
     }
   },
   "sources": [
@@ -35,14 +35,6 @@
       "page": "189780928627796",
       "pageName": "XRLondon",
       "liveTitlePrefix": "XRLondon Live",
-      "active": true
-    },
-    {
-      "media":" nepocide",
-      "type": "facebook",
-      "page": "207750146812696",
-      "pageName": "nepocide",
-      "liveTitlePrefix": "nepocide Live",
       "active": true
     },
     {
@@ -76,25 +68,25 @@
       "pageName": "XR UK",
       "liveTitlePrefix": "XR UK Live",
       "active": true
+    },
+    {
+      "media":" Extinction Rebellion North",
+      "type": "facebook",
+      "page": "297319214386859",
+      "pageName": "Extinction Rebellion North",
+      "liveTitlePrefix": "Exinction Rebellion North Live",
+      "active": true
     }
 ],
 "current": [
     {
-      "type": "facebook" ,
-      "media": "Live",
-      "mediaTitle": "Live",
-      "video": "facebook" ,
-      "videoTitle": "Live",
-      "videoSrc": "https://www.facebook.com/extinctionrebellionnorth/videos/336639567484511/"
-    },
-    {
-      "type": "facebook" ,
-      "media": "Live",
-      "mediaTitle": "Live",
-      "video": "facebook" ,
-      "videoTitle": "Live",
+      "type": "facebook",
+      "media": "Extinction Rebellion North",
+      "mediaTitle": "Extinction Rebellion North",
+      "video": "facebook_297319214386859_0",
+      "videoTitle": "Exinction Rebellion North Live",
       "videoSrc": "https://www.facebook.com/extinctionrebellionnorth/videos/336639567484511"
     }
   ],
-  "lastUpdTs": "2020-09-05T09:00:10.747Z"
+  "lastUpdTs": "2020-09-05T09:03:45.250Z"
 }
