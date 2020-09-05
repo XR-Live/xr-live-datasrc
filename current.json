@@ -23,14 +23,6 @@
       "mediaTitle": "XR UK",
       "video": "facebook" ,
       "videoTitle": "XR UK",
-      "videoSrc": "https://www.facebook.com/XRebellionUK/videos/785408955539758/"
-    },
-    {
-      "type": "facebook" ,
-      "media": "XR UK",
-      "mediaTitle": "XR UK",
-      "video": "facebook" ,
-      "videoTitle": "XR UK",
       "videoSrc": "https://www.facebook.com/XRebellionUK/videos/315455656198086/"
     },
     {
@@ -42,5 +34,5 @@
       "videoSrc": "https://www.facebook.com/XRScotland/videos/695030424425247/"
     }
   ],
-  "lastUpdTs": "2020-09-05T18:03:02.446Z"
+  "lastUpdTs": "2020-09-05T18:16:02.095Z"
 }
