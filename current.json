@@ -24,7 +24,15 @@
       "video": "facebook" ,
       "videoTitle": "Extinction Rebellion Deutschland",
       "videoSrc": "https://www.facebook.com/ExtinctionRebellionDeutschland/videos/319952735955332/"
+    },
+    {
+      "type": "facebook" ,
+      "media": "Extinction Rebellion Bristol",
+      "mediaTitle": "Extinction Rebellion Bristol",
+      "video": "facebook" ,
+      "videoTitle": "Extinction Rebellion Bristol",
+      "videoSrc": "https://www.facebook.com/XRBristol/videos/1165381660521905/"
     }
   ],
-  "lastUpdTs": "2020-09-05T11:19:01.901Z"
+  "lastUpdTs": "2020-09-05T11:36:01.895Z"
 }
