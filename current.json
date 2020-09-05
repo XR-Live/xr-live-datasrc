@@ -19,6 +19,14 @@
     },
     {
       "type": "facebook" ,
+      "media": "Extinction Rebellion Polska",
+      "mediaTitle": "Extinction Rebellion Polska",
+      "video": "facebook" ,
+      "videoTitle": "Extinction Rebellion Polska",
+      "videoSrc": "https://www.facebook.com/XRPolska/videos/320070355925482/"
+    },
+    {
+      "type": "facebook" ,
       "media": "Cardiff Extinction Rebellion Caerdydd",
       "mediaTitle": "Cardiff Extinction Rebellion Caerdydd",
       "video": "facebook" ,
@@ -26,5 +34,5 @@
       "videoSrc": "https://www.facebook.com/422051668596683/videos/776521123100751"
     }
   ],
-  "lastUpdTs": "2020-09-05T14:42:02.425Z"
+  "lastUpdTs": "2020-09-05T14:57:02.422Z"
 }
