@@ -40,7 +40,15 @@
       "video": "facebook" ,
       "videoTitle": "Cardiff Extinction Rebellion Caerdydd",
       "videoSrc": "https://www.facebook.com/XRCardiff/videos/3449425218470293/"
+    },
+    {
+      "type": "facebook" ,
+      "media": "Extinction Rebellion Birmingham",
+      "mediaTitle": "Extinction Rebellion Birmingham",
+      "video": "facebook" ,
+      "videoTitle": "Extinction Rebellion Birmingham",
+      "videoSrc": "https://www.facebook.com/388396128581740/videos/647562422847397"
     }
   ],
-  "lastUpdTs": "2020-09-05T13:39:01.792Z"
+  "lastUpdTs": "2020-09-05T13:52:01.703Z"
 }
