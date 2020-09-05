@@ -11,6 +11,14 @@
 "current": [
     {
       "type": "facebook" ,
+      "media": "Extinction Rebellion Polska",
+      "mediaTitle": "Extinction Rebellion Polska",
+      "video": "facebook" ,
+      "videoTitle": "Extinction Rebellion Polska",
+      "videoSrc": "https://www.facebook.com/XRPolska/videos/359317508418934/"
+    },
+    {
+      "type": "facebook" ,
       "media": "Extinction Rebellion Exeter",
       "mediaTitle": "Extinction Rebellion Exeter",
       "video": "facebook" ,
@@ -34,5 +42,5 @@
       "videoSrc": "https://www.facebook.com/XRBristol/videos/1165381660521905/"
     }
   ],
-  "lastUpdTs": "2020-09-05T11:43:01.787Z"
+  "lastUpdTs": "2020-09-05T11:56:01.500Z"
 }
