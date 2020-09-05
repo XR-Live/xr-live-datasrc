@@ -27,19 +27,19 @@
     },
     {
       "type": "facebook" ,
+      "media": "XR Cornwall",
+      "mediaTitle": "XR Cornwall",
+      "video": "facebook" ,
+      "videoTitle": "XR Cornwall",
+      "videoSrc": "https://www.facebook.com/XRinCornwall/videos/324517405632312/"
+    },
+    {
+      "type": "facebook" ,
       "media": "XR UK",
       "mediaTitle": "XR UK",
       "video": "facebook" ,
       "videoTitle": "XR UK",
       "videoSrc": "https://www.facebook.com/XRebellionUK/videos/315455656198086/"
-    },
-    {
-      "type": "facebook" ,
-      "media": "Extinction Rebellion Jews",
-      "mediaTitle": "Extinction Rebellion Jews",
-      "video": "facebook" ,
-      "videoTitle": "Extinction Rebellion Jews",
-      "videoSrc": "https://www.facebook.com/xrjews/videos/4321946984545011/"
     },
     {
       "type": "facebook" ,
@@ -50,5 +50,5 @@
       "videoSrc": "https://www.facebook.com/xrnorwich/videos/606309600248674/"
     }
   ],
-  "lastUpdTs": "2020-09-05T17:03:02.432Z"
+  "lastUpdTs": "2020-09-05T17:04:01.450Z"
 }
