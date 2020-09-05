@@ -27,6 +27,14 @@
     },
     {
       "type": "facebook" ,
+      "media": "XR UK",
+      "mediaTitle": "XR UK",
+      "video": "facebook" ,
+      "videoTitle": "XR UK",
+      "videoSrc": "https://www.facebook.com/XRebellionUK/videos/315455656198086/"
+    },
+    {
+      "type": "facebook" ,
       "media": "Extinction Rebellion Jews",
       "mediaTitle": "Extinction Rebellion Jews",
       "video": "facebook" ,
@@ -50,5 +58,5 @@
       "videoSrc": "https://www.facebook.com/xrnorwich/videos/606309600248674/"
     }
   ],
-  "lastUpdTs": "2020-09-05T16:52:01.651Z"
+  "lastUpdTs": "2020-09-05T16:57:02.275Z"
 }
