@@ -19,14 +19,6 @@
     },
     {
       "type": "facebook" ,
-      "media": "Extinction Rebellion Jews",
-      "mediaTitle": "Extinction Rebellion Jews",
-      "video": "facebook" ,
-      "videoTitle": "Extinction Rebellion Jews",
-      "videoSrc": "https://www.facebook.com/xrjews/videos/683458438918893/"
-    },
-    {
-      "type": "facebook" ,
       "media": "Cardiff Extinction Rebellion Caerdydd",
       "mediaTitle": "Cardiff Extinction Rebellion Caerdydd",
       "video": "facebook" ,
@@ -42,5 +34,5 @@
       "videoSrc": "https://www.facebook.com/nepocide/videos/1093672967702268/"
     }
   ],
-  "lastUpdTs": "2020-09-05T15:58:01.821Z"
+  "lastUpdTs": "2020-09-05T16:01:01.714Z"
 }
