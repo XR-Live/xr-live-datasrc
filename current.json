@@ -32,7 +32,15 @@
       "video": "facebook" ,
       "videoTitle": "Extinction Rebellion Northampton",
       "videoSrc": "https://www.facebook.com/XRNorthampton/videos/337866690592361/"
+    },
+    {
+      "type": "facebook" ,
+      "media": "Cardiff Extinction Rebellion Caerdydd",
+      "mediaTitle": "Cardiff Extinction Rebellion Caerdydd",
+      "video": "facebook" ,
+      "videoTitle": "Cardiff Extinction Rebellion Caerdydd",
+      "videoSrc": "https://www.facebook.com/watch/?v=3449425218470293&extid=4ik63Bcyr1QV9T99"
     }
   ],
-  "lastUpdTs": "2020-09-05T13:35:02.126Z"
+  "lastUpdTs": "2020-09-05T13:38:02.538Z"
 }
