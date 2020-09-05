@@ -11,11 +11,11 @@
 "current": [
     {
       "type": "facebook" ,
-      "media": "XR South East UK",
-      "mediaTitle": "XR South East UK",
+      "media": "Extinction Rebellion Exeter",
+      "mediaTitle": "Extinction Rebellion Exeter",
       "video": "facebook" ,
-      "videoTitle": "XR South East UK",
-      "videoSrc": "https://www.facebook.com/XRSouthEastUK/videos/305722164064631"
+      "videoTitle": "Extinction Rebellion Exeter",
+      "videoSrc": "https://www.facebook.com/XRExeter/videos/248598336315598"
     },
     {
       "type": "facebook" ,
@@ -34,5 +34,5 @@
       "videoSrc": "https://www.facebook.com/XRSouthEastUK/videos/746852636112813"
     }
   ],
-  "lastUpdTs": "2020-09-05T12:22:02.124Z"
+  "lastUpdTs": "2020-09-05T12:23:02.485Z"
 }
