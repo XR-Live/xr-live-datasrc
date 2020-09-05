@@ -43,6 +43,14 @@
     },
     {
       "type": "facebook" ,
+      "media": "Extinction Rebellion Scotland",
+      "mediaTitle": "Extinction Rebellion Scotland",
+      "video": "facebook" ,
+      "videoTitle": "Extinction Rebellion Scotland",
+      "videoSrc": "https://www.facebook.com/XRScotland/videos/695030424425247/"
+    },
+    {
+      "type": "facebook" ,
       "media": "Extinction Rebellion Norwich",
       "mediaTitle": "Extinction Rebellion Norwich",
       "video": "facebook" ,
@@ -50,5 +58,5 @@
       "videoSrc": "https://www.facebook.com/xrnorwich/videos/606309600248674/"
     }
   ],
-  "lastUpdTs": "2020-09-05T17:04:01.450Z"
+  "lastUpdTs": "2020-09-05T17:10:02.097Z"
 }
