@@ -3,80 +3,10 @@
     "defaultVisibleCount": 9
    },
   "media": {
-    "XRLondon": {
-      "media": "XRLondon",
-      "mediaTitle": "XRLondon"
-    },
-    "nepocide": {
-      "media": "nepocide",
-      "mediaTitle": "nepocide"
-    },
-    "XR Bristol": {
-      "media": "XR Bristol",
-      "mediaTitle": "XR Bristol"
-    },
-    "HS2 Rebellion": {
-      "media": "HS2 Rebellion",
-      "mediaTitle": "HS2 Rebellion"
-    },
-    "Animal Rebellion": {
-      "media": "Animal Rebellion",
-      "mediaTitle": "Animal Rebellion"
-    },
-    "XR UK": {
-      "media": "XR UK",
-      "mediaTitle": "XR UK"
-    }
+
   },
   "sources": [
-    {
-      "media":" XRLondon",
-      "type": "facebook",
-      "page": "189780928627796",
-      "pageName": "XRLondon",
-      "liveTitlePrefix": "XRLondon Live",
-      "active": true
-    },
-    {
-      "media":" nepocide",
-      "type": "facebook",
-      "page": "207750146812696",
-      "pageName": "nepocide",
-      "liveTitlePrefix": "nepocide Live",
-      "active": true
-    },
-    {
-      "media":" XR Bristol",
-      "type": "facebook",
-      "page": "409871752690636",
-      "pageName": "XR Bristol",
-      "liveTitlePrefix": "XR Bristol Live",
-      "active": true
-    },
-    {
-      "media":" HS2 Rebellion",
-      "type": "facebook",
-      "page": "111893330507008",
-      "pageName": "HS2 Rebellion",
-      "liveTitlePrefix": "HS2 Rebellion Live",
-      "active": true
-    },
-    {
-      "media":" Animal Rebellion",
-      "type": "facebook",
-      "page": "481922179226690",
-      "pageName": "Animal Rebellion",
-      "liveTitlePrefix": "Animal Rebellion Live",
-      "active": true
-    },
-    {
-      "media":" XR UK",
-      "type": "facebook",
-      "page": "401847960644025",
-      "pageName": "XR UK",
-      "liveTitlePrefix": "XR UK Live",
-      "active": true
-    }
+
 ],
 "current": [
     {
@@ -88,5 +18,5 @@
       "videoSrc": "https://www.facebook.com/248063755208013/videos/3369844179728595"
     }
   ],
-  "lastUpdTs": "2020-09-05T00:28:13.564Z"
+  "lastUpdTs": "2020-09-05T00:38:41.910Z"
 }
