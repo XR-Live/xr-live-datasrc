@@ -19,6 +19,14 @@
     },
     {
       "type": "facebook" ,
+      "media": "XR London",
+      "mediaTitle": "XR London",
+      "video": "facebook" ,
+      "videoTitle": "XR London",
+      "videoSrc": "https://www.facebook.com/XRLondon/videos/313382423282898/"
+    },
+    {
+      "type": "facebook" ,
       "media": "Extinction Rebellion Nottingham",
       "mediaTitle": "Extinction Rebellion Nottingham",
       "video": "facebook" ,
@@ -34,5 +42,5 @@
       "videoSrc": "https://www.facebook.com/XRNorthampton/videos/337866690592361/"
     }
   ],
-  "lastUpdTs": "2020-09-05T13:16:01.902Z"
+  "lastUpdTs": "2020-09-05T13:21:01.582Z"
 }
