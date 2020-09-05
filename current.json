@@ -11,14 +11,6 @@
 "current": [
     {
       "type": "facebook" ,
-      "media": "Extinction Rebellion",
-      "mediaTitle": "Extinction Rebellion",
-      "video": "facebook" ,
-      "videoTitle": "Extinction Rebellion",
-      "videoSrc": "https://www.facebook.com/ExtinctionRebellion/videos/345805713240646/"
-    },
-    {
-      "type": "facebook" ,
       "media": "Extinction Rebellion Polska",
       "mediaTitle": "Extinction Rebellion Polska",
       "video": "facebook" ,
@@ -58,5 +50,5 @@
       "videoSrc": "https://www.facebook.com/xrnorwich/videos/318836849226797/"
     }
   ],
-  "lastUpdTs": "2020-09-05T15:55:01.543Z"
+  "lastUpdTs": "2020-09-05T15:56:01.921Z"
 }
