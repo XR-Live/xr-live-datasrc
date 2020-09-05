@@ -27,14 +27,6 @@
     },
     {
       "type": "facebook" ,
-      "media": "Extinction Rebellion Nottingham",
-      "mediaTitle": "Extinction Rebellion Nottingham",
-      "video": "facebook" ,
-      "videoTitle": "Extinction Rebellion Nottingham",
-      "videoSrc": "https://www.facebook.com/XRNottm/videos/375880733643193/"
-    },
-    {
-      "type": "facebook" ,
       "media": "Extinction Rebellion Northampton",
       "mediaTitle": "Extinction Rebellion Northampton",
       "video": "facebook" ,
@@ -42,5 +34,5 @@
       "videoSrc": "https://www.facebook.com/XRNorthampton/videos/337866690592361/"
     }
   ],
-  "lastUpdTs": "2020-09-05T13:21:01.582Z"
+  "lastUpdTs": "2020-09-05T13:35:02.126Z"
 }
