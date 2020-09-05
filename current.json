@@ -20,21 +20,13 @@
 ],
 "current": [
     {
-      "type": "facebook",
-      "media": "XR Australia",
-      "mediaTitle": "XR Australia",
-      "video": "facebook_248063755208013_0",
-      "videoTitle": "XR Australia Live",
-      "videoSrc": "https://www.facebook.com/XRAustralia/videos/313714186550113"
-    },
-    {
-      "type": "facebook" ,
-      "media": "XR Australia",
-      "mediaTitle": "XR Australia",
-      "video": "facebook" ,
-      "videoTitle": "XR Australia",
-      "videoSrc": "https://www.facebook.com/XRAustralia/videos/313714186550113"
+      "type": "youtube",
+      "media": "offline",
+      "mediaTitle": "Extinction Rebellion",
+      "video": "offline_oUIDL4SB60g",
+      "videoTitle": "Extinction Rebellion",
+      "videoSrc": "https://www.facebook.com/239675493315233/videos/2595962347400581"
     }
   ],
-  "lastUpdTs": "2020-09-05T01:13:23.395Z"
+  "lastUpdTs": "2020-09-05T01:20:05.023Z"
 }
