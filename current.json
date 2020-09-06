@@ -19,14 +19,6 @@
     },
     {
       "type": "facebook" ,
-      "media": "XR Universities UK",
-      "mediaTitle": "XR Universities UK",
-      "video": "facebook" ,
-      "videoTitle": "XR Universities UK",
-      "videoSrc": "https://www.facebook.com/XRUniversitiesUK/videos/1248180202183004/"
-    },
-    {
-      "type": "facebook" ,
       "media": "Extinction Rebellion Brighton",
       "mediaTitle": "Extinction Rebellion Brighton",
       "video": "facebook" ,
@@ -34,5 +26,5 @@
       "videoSrc": "https://www.facebook.com/nepocide/videos/340377790484293/"
     }
   ],
-  "lastUpdTs": "2020-09-06T17:50:01.767Z"
+  "lastUpdTs": "2020-09-06T18:11:01.937Z"
 }
