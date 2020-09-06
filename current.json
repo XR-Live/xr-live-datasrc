@@ -16,7 +16,15 @@
       "video": "facebook" ,
       "videoTitle": "Extinction Rebellion",
       "videoSrc": "https://www.facebook.com/ExtinctionRebellion/videos/312586446862732/"
+    },
+    {
+      "type": "facebook" ,
+      "media": "Extinction Rebellion Bondi Beach",
+      "mediaTitle": "Extinction Rebellion Bondi Beach",
+      "video": "facebook" ,
+      "videoTitle": "Extinction Rebellion Bondi Beach",
+      "videoSrc": "https://www.facebook.com/XRBondiBeach/videos/919368645068260"
     }
   ],
-  "lastUpdTs": "2020-09-06T16:18:02.124Z"
+  "lastUpdTs": "2020-09-06T16:34:02.054Z"
 }
