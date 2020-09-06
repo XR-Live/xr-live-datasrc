@@ -15,8 +15,16 @@
       "mediaTitle": "Extinction Rebellion",
       "video": "facebook" ,
       "videoTitle": "Extinction Rebellion",
-      "videoSrc": "https://www.facebook.com/239675493315233/videos/951359595346206"
+      "videoSrc": "https://www.facebook.com/ExtinctionRebellion/videos/312586446862732/"
+    },
+    {
+      "type": "facebook" ,
+      "media": "XR London",
+      "mediaTitle": "XR London",
+      "video": "facebook" ,
+      "videoTitle": "XR London",
+      "videoSrc": "https://www.facebook.com/xrcambridge/videos/643927483169992/"
     }
   ],
-  "lastUpdTs": "2020-09-06T14:04:02.337Z"
+  "lastUpdTs": "2020-09-06T15:25:02.174Z"
 }
