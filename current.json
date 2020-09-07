@@ -19,14 +19,6 @@
     },
     {
       "type": "facebook" ,
-      "media": "XR UK",
-      "mediaTitle": "XR UK",
-      "video": "facebook" ,
-      "videoTitle": "XR UK",
-      "videoSrc": "https://www.facebook.com/XRebellionUK/videos/1936675276490827/"
-    },
-    {
-      "type": "facebook" ,
       "media": "Extinction Rebellion Polska",
       "mediaTitle": "Extinction Rebellion Polska",
       "video": "facebook" ,
@@ -34,5 +26,5 @@
       "videoSrc": "https://www.facebook.com/XRPolska/videos/2619473064971774/"
     }
   ],
-  "lastUpdTs": "2020-09-07T12:34:02.292Z"
+  "lastUpdTs": "2020-09-07T12:35:02.045Z"
 }
