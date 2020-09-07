@@ -16,7 +16,15 @@
       "video": "facebook" ,
       "videoTitle": "Extinction Rebellion",
       "videoSrc": "https://www.facebook.com/ExtinctionRebellion/videos/312586446862732/"
+    },
+    {
+      "type": "facebook" ,
+      "media": "Extinction Rebellion Deutschland",
+      "mediaTitle": "Extinction Rebellion Deutschland",
+      "video": "facebook" ,
+      "videoTitle": "Extinction Rebellion Deutschland",
+      "videoSrc": "https://www.facebook.com/ExtinctionRebellionDeutschland/videos/1267771700227371/"
     }
   ],
-  "lastUpdTs": "2020-09-06T18:33:01.966Z"
+  "lastUpdTs": "2020-09-07T06:18:01.910Z"
 }
