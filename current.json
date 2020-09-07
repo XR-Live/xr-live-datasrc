@@ -19,6 +19,14 @@
     },
     {
       "type": "facebook" ,
+      "media": "HS2 Rebellion",
+      "mediaTitle": "HS2 Rebellion",
+      "video": "facebook" ,
+      "videoTitle": "HS2 Rebellion",
+      "videoSrc": "https://www.facebook.com/HS2rebellion/videos/317503859698008/"
+    },
+    {
+      "type": "facebook" ,
       "media": "Extinction Rebellion Deutschland",
       "mediaTitle": "Extinction Rebellion Deutschland",
       "video": "facebook" ,
@@ -26,5 +34,5 @@
       "videoSrc": "https://www.facebook.com/ExtinctionRebellionDeutschland/videos/1267771700227371/"
     }
   ],
-  "lastUpdTs": "2020-09-07T06:53:02.128Z"
+  "lastUpdTs": "2020-09-07T07:11:01.991Z"
 }
