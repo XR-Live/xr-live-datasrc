@@ -10,13 +10,13 @@
 ],
 "current": [
     {
-      "type": "youtube",
-      "media": "offline",
-      "mediaTitle": "Extinction Rebellion",
-      "video": "offline_oUIDL4SB60g",
-      "videoTitle": "Extinction Rebellion",
-      "videoSrc": "https://www.facebook.com/239675493315233/videos/2595962347400581"
+      "type": "facebook" ,
+      "media": "Extinction Rebellion UK",
+      "mediaTitle": "Extinction Rebellion UK",
+      "video": "facebook" ,
+      "videoTitle": "Extinction Rebellion UK",
+      "videoSrc": "https://www.facebook.com/XRebellionUK/videos/690967418187024"
     }
   ],
-  "lastUpdTs": "2020-09-22T17:47:53.756Z"
+  "lastUpdTs": "2020-09-22T17:48:05.442Z"
 }
