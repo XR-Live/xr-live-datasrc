@@ -10,13 +10,13 @@
 ],
 "current": [
     {
-      "type": "facebook" ,
-      "media": "Extinction Rebellion Israel",
-      "mediaTitle": "Extinction Rebellion Israel",
-      "video": "facebook" ,
-      "videoTitle": "Extinction Rebellion Israel",
-      "videoSrc": "https://www.facebook.com/377148726388792/videos/463811441242273"
+      "type": "youtube",
+      "media": "offline",
+      "mediaTitle": "Extinction Rebellion",
+      "video": "offline_oUIDL4SB60g",
+      "videoTitle": "Extinction Rebellion",
+      "videoSrc": "https://www.facebook.com/239675493315233/videos/2595962347400581"
     }
   ],
-  "lastUpdTs": "2020-09-28T14:37:16.477Z"
+  "lastUpdTs": "2020-09-29T12:04:41.951Z"
 }
