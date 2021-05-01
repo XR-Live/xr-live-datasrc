@@ -11,28 +11,12 @@
 "current": [
     {
       "type": "facebook" ,
-      "media": "XR Exeter",
-      "mediaTitle": "XR Exeter",
+      "media": "Extinction Rebellion Offline",
+      "mediaTitle": "Extinction Rebellion Offline",
       "video": "facebook" ,
-      "videoTitle": "XR Exeter",
-      "videoSrc": "https://www.facebook.com/XRExeter/videos/454024175901800"
-    },
-    {
-      "type": "facebook" ,
-      "media": "XR Worcester",
-      "mediaTitle": "XR Worcester",
-      "video": "facebook" ,
-      "videoTitle": "XR Worcester",
-      "videoSrc": "https://www.facebook.com/XRWorcester/videos/811173403161831"
-    },
-    {
-      "type": "facebook" ,
-      "media": "XR North",
-      "mediaTitle": "XR North",
-      "video": "facebook" ,
-      "videoTitle": "XR North",
-      "videoSrc": "https://www.facebook.com/extinctionrebellionnorth/videos/505403287175468"
+      "videoTitle": "Extinction Rebellion Offline",
+      "videoSrc": "https://www.facebook.com/401847960644025/videos/1202234246899022"
     }
   ],
-  "lastUpdTs": "2021-05-01T11:15:02.455Z"
+  "lastUpdTs": "2021-05-01T12:41:01.548Z"
 }
