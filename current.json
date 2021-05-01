@@ -16,7 +16,15 @@
       "video": "facebook" ,
       "videoTitle": "XR Exeter",
       "videoSrc": "https://www.facebook.com/XRExeter/videos/454024175901800"
+    },
+    {
+      "type": "facebook" ,
+      "media": "XR Worcester",
+      "mediaTitle": "XR Worcester",
+      "video": "facebook" ,
+      "videoTitle": "XR Worcester",
+      "videoSrc": "https://www.facebook.com/XRWorcester/videos/811173403161831"
     }
   ],
-  "lastUpdTs": "2021-05-01T11:12:01.811Z"
+  "lastUpdTs": "2021-05-01T11:13:01.698Z"
 }
