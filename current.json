@@ -11,14 +11,6 @@
 "current": [
     {
       "type": "facebook" ,
-      "media": " XR North",
-      "mediaTitle": " XR North",
-      "video": "facebook" ,
-      "videoTitle": " XR North",
-      "videoSrc": "https://www.facebook.com/extinctionrebellionnorth/videos/1796812233826757"
-    },
-    {
-      "type": "facebook" ,
       "media": "XR London",
       "mediaTitle": "XR London",
       "video": "facebook" ,
@@ -26,5 +18,5 @@
       "videoSrc": "https://www.facebook.com/XRLondon/videos/299472804911518"
     }
   ],
-  "lastUpdTs": "2021-05-01T14:23:02.063Z"
+  "lastUpdTs": "2021-05-01T14:26:02.346Z"
 }
