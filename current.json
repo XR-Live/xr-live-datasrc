@@ -10,13 +10,13 @@
 ],
 "current": [
     {
-      "type": "youtube",
-      "media": "offline",
-      "mediaTitle": "Extinction Rebellion",
-      "video": "offline_oUIDL4SB60g",
-      "videoTitle": "Extinction Rebellion",
-      "videoSrc": "https://www.facebook.com/239675493315233/videos/2595962347400581"
+      "type": "facebook" ,
+      "media": "Extinction Rebellion Offline",
+      "mediaTitle": "Extinction Rebellion Offline",
+      "video": "facebook" ,
+      "videoTitle": "Extinction Rebellion Offline",
+      "videoSrc": "https://www.facebook.com/239675493315233/videos/321645932478706"
     }
   ],
-  "lastUpdTs": "2021-05-01T11:10:02.315Z"
+  "lastUpdTs": "2021-05-01T11:11:02.115Z"
 }
